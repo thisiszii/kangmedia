@@ -7,7 +7,7 @@
       "main_ads_intertitial":"ca-app-pub-3379099559308238/3016987218",
       "main_ads_natives":"ca-app-pub-3379099559308238/3352863286",
       "main_ads_rewards":"ca-app-pub-3379099559308238/9866913123",
-      "backup_ads_natives":"",
+      "backup_ads_natives":"4a83d45e280c707b",
       "backup_ads_banner":"6a93a1ea1425a7e2",
       "backup_ads_intertitial":"ce3c21b3ddd4ca58",
       "backup_ads_rewards":"",
@@ -16,7 +16,7 @@
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -27,7 +27,7 @@
       "link_redirect": "https://"
     }
   ],
-   "Categories": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Born Pink",
