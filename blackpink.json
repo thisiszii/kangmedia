@@ -40,8 +40,8 @@
     },
     {
       "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
+      "name_category": "The Album",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png"
     },
     {
       "id": 4,
@@ -227,6 +227,76 @@
       "title": "Forever Young",
       "image": "https://i.scdn.co/image/ab67616d0000b273273773a63f11a55524203ad9",
       "link_mp3": "https://drive.google.com/uc?export=download&id=1yxcEfoyVn3DqiSVJOmlRYZXFGGfKM09K",
+      "lyrics": ""
+    },
+	
+	
+	
+	
+	
+	
+	{
+      "id": 23,
+      "name_category": "The Album",
+      "title": "How You Like That",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1k0RZe0Pmkiy1J4YTD-CRbeZvCZ35eNOz",
+      "lyrics": ""
+    },
+	{
+      "id": 24,
+      "name_category": "The Album",
+      "title": "Ice Cream feat. Selena Gomez",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ch4eWDwUsXLa1h2BkUG_XpX8wkI_X7JS",
+      "lyrics": ""
+    },
+	{
+      "id": 25,
+      "name_category": "The Album",
+      "title": "Pretty Savage",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=18SNk8lFv6kjG8otUQDEhnWTWn4TF8vLy",
+      "lyrics": ""
+    },
+	{
+      "id": 26,
+      "name_category": "The Album",
+      "title": "Bet You Wanna feat. Cardi B",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ehG8dUQeyhX5l8I1t-y7XZWswro66otG",
+      "lyrics": ""
+    },
+	{
+      "id": 27,
+      "name_category": "The Album",
+      "title": "Lovesick Girls",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ucbqDnkYpCBZAq4zWCUYnvD3K-OSZ5_g",
+      "lyrics": ""
+    },
+	{
+      "id": 28,
+      "name_category": "The Album",
+      "title": "Crazy Over You",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1hFAdrooQKcVGyjcA17gxpb977tCmUyFm",
+      "lyrics": ""
+    },
+	{
+      "id": 29,
+      "name_category": "The Album",
+      "title": "Love To Hate Me",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1wi_Z3AtXaOFeQ_w5z-b7Skr8LPHhJ-vu",
+      "lyrics": ""
+    },
+	{
+      "id": 30,
+      "name_category": "The Album",
+      "title": "You Never Know",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1UTsnL-WdYjHzyXxVDbDwSi9WgSAoij-H",
       "lyrics": ""
     }
   
