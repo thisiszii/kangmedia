@@ -45,8 +45,8 @@
     },
     {
       "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb"
     },
     {
       "id": 5,
@@ -298,8 +298,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
       "link_mp3": "https://drive.google.com/uc?export=download&id=1UTsnL-WdYjHzyXxVDbDwSi9WgSAoij-H",
       "lyrics": ""
-    }
+    },
   
+  
+  
+  
+  
+	{
+      "id": 31,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "BOOMBAYAH",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1eMyTuQ68sbHuGd6hi2WunC6_mCDrZYn3",
+      "lyrics": ""
+    },
+	{
+      "id": 32,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "WHISTLE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fI5bJT3ap-V80gTCQorU-hNzilcpBrfW",
+      "lyrics": ""
+    },
+	{
+      "id": 33,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "PLAYING WITH FIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13iVTGkvPn6LF20-QlslqM5j1cmTL2BtE",
+      "lyrics": ""
+    },
+	{
+      "id": 34,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "STAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1izSsCaCaTDftc3wZ2OxDgSMeKxVAC2UD",
+      "lyrics": ""
+    },
+	{
+      "id": 35,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "AS IF IT'S YOUR LAST",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1W8jz_tGLVKQQEuoe-7qju9HvRqvTSn73",
+      "lyrics": ""
+    },
+	{
+      "id": 36,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "DDU-DU-DDU-DU",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=142_LgWPF9IXeCQa8z-R_UFTjktPCyL4o",
+      "lyrics": ""
+    },
+	{
+      "id": 37,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "FOREVER YOUNG",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1p2bPLW-NVlv1ZcL3R-uJoGVERmYjzt8a",
+      "lyrics": ""
+    },
+	{
+      "id": 38,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "REALLY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fS46I_5tkozY63qyCyfIlZ5R_5aHWPOA",
+      "lyrics": ""
+    },
+	{
+      "id": 39,
+      "name_category": "Blackpink in Your Area (JP Version)",
+      "title": "SEE U LATER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1BqVKsYsvJXImQPfMoqVdzyyID6BiAaIP",
+      "lyrics": ""
+    },
   
 	
   ]
