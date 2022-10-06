@@ -32,76 +32,257 @@
       "id": 1,
       "name_category": "Proof",
       "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Hanan Attaki",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
-    {
+      "name_category": "Proof",
+      "title": "Born Singer",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1gR2kh_oMD0XnSAUASLGUO-29f9570tzb",
+      "lyrics": "" },
+	{
       "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
+      "name_category": "Proof",
+      "title": "No More Dream",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=14jYI-UkA6cqrv4Av79v8wqQOEu1oCHmc",
+      "lyrics": "" },
+	{
       "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    },
-    {
+      "name_category": "Proof",
+      "title": "N.O",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1UGClMq01yFoeEwaFToDs24FCWxYNKTH8",
+      "lyrics": "" },
+	{
       "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
+      "name_category": "Proof",
+      "title": "Boy In Luv",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1EabB6C3oNMxUMH9UJB45MpfGuuDhZS-o",
+      "lyrics": "" },
+	{
       "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
+      "name_category": "Proof",
+      "title": "Danger",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=16uMkWOP2yUTOHVMI9DS5X1224wkQIgtf",
+      "lyrics": "" },
+	{
       "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
+      "name_category": "Proof",
+      "title": "I NEED U",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1eWEhciXy1km7J3geM7WJUR18CtQh3qRw",
+      "lyrics": "" },
+	{
+      "id": 7,
+      "name_category": "Proof",
+      "title": "RUN",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=126JfeBv4BRThQ_tGCvEb0p8TBd3aVDDR",
+      "lyrics": "" },
+	{
+      "id": 8,
+      "name_category": "Proof",
+      "title": "Burning Up (FIRE)",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1f56CXiBNeZgiLdlyguTDjwSrGcM7zIpF",
+      "lyrics": "" },
+	{
+      "id": 9,
+      "name_category": "Proof",
+      "title": "Blood Sweat & Tears",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1srQdzIGIWGkKHX6KDIohu-Tf0dGfVNMb",
+      "lyrics": "" },
+	{
+      "id": 10,
+      "name_category": "Proof",
+      "title": "Spring Day",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1S3e291CjVQHp7_FYhcECD_SOUT5aliPC",
+      "lyrics": "" },
+	{
+      "id": 11,
+      "name_category": "Proof",
+      "title": "DNA",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ji76hLzSrJ9o4PDHWdLlX1aneZTCAP32",
+      "lyrics": "" },
+	{
+      "id": 12,
+      "name_category": "Proof",
+      "title": "FAKE LOVE",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fWNC8SJeGAF3vRlp0DW_Y9st4yoNHE1W",
+      "lyrics": "" },
+	{
+      "id": 13,
+      "name_category": "Proof",
+      "title": "IDOL",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1oXdIjLjIYBzrf--QvnuP2HF1gW5qsH0c",
+      "lyrics": "" },
+	{
+      "id": 14,
+      "name_category": "Proof",
+      "title": "Boy With Luv Feat. Halsey",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1HqUllQaEodMkDkeFw-pexn1XxF4S9azW",
+      "lyrics": "" },
+	{
+      "id": 15,
+      "name_category": "Proof",
+      "title": "ON",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fD0rX6BOdYIlbNNzdKrUfgOhYERXWAXM",
+      "lyrics": "" },
+	{
+      "id": 16,
+      "name_category": "Proof",
+      "title": "Dynamite",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1r7p9GZWIWih8WvjSL8pcmbAIhmYaXJnX",
+      "lyrics": "" },
+	{
+      "id": 17,
+      "name_category": "Proof",
+      "title": "Life Goes On",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1qVOg3-tSgn3Z6SO2uQjBPL31zrRxIoP9",
+      "lyrics": "" },
+	{
+      "id": 18,
+      "name_category": "Proof",
+      "title": "Butter",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QYJf5fkVj5tx2KlVS5eVLmNX8bc31N_r",
+      "lyrics": "" },
+	{
+      "id": 19,
+      "name_category": "Proof",
+      "title": "Yet To COme",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dEIMOKsHZSnEwtOEIR9ivkvppjhiiOEU",
+      "lyrics": "" },
+	{
+      "id": 20,
+      "name_category": "Proof",
+      "title": "Run BTS",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1M4wFzYCFHXkHsbAPBuNODLFTSgwBTO5O",
+      "lyrics": "" },
+	{
+      "id": 21,
+      "name_category": "Proof",
+      "title": "Intro: Persona",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=156XhhHpb0-AeIv8RGp8vwx_IR_BulCeK",
+      "lyrics": "" },
+	{
+      "id": 22,
+      "name_category": "Proof",
+      "title": "Stay",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1h3OXnDgmmQnMBAcKGXgds4zI6udzcbHH",
+      "lyrics": "" },
+	{
+      "id": 23,
+      "name_category": "Proof",
+      "title": "Moon",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1KRiDWJRqvjgy4tin-RTt3mhJHRh5RMnq",
+      "lyrics": "" },
+	{
+      "id": 24,
+      "name_category": "Proof",
+      "title": "Jamais Vu",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ZzUpM_ygUSg9TlHDIJ0z4K9xVgZZUmX9",
+      "lyrics": "" },
+	{
+      "id": 25,
+      "name_category": "Proof",
+      "title": "Trivia: Seesaw",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dUN0iPZevAzvcDwlbUlH2KAJFVlnpMLA",
+      "lyrics": "" },
+	{
+      "id": 26,
+      "name_category": "Proof",
+      "title": "BTS Cypher PT.3: Killer Feat. Supreme Boi",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1kWgso-_ZX2NYa9G0ycFvqeTpqLwWDXQa",
+      "lyrics": "" },
+	{
+      "id": 27,
+      "name_category": "Proof",
+      "title": "Outro: Ego",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1hvr0zBJOxVDhgGjZTlwyWcE0D2wCSwig",
+      "lyrics": "" },
+	{
+      "id": 28,
+      "name_category": "Proof",
+      "title": "Her",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1P_o-Imi9pVbiksurBTYIbHlbvasFMOrT",
+      "lyrics": "" },
+	{
+      "id": 29,
+      "name_category": "Proof",
+      "title": "Filter",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1NJvRP8lJuIL7L6cPr4qnbo8QqG7zkkq1",
+      "lyrics": "" },
+	{
+      "id": 30,
+      "name_category": "Proof",
+      "title": "Friends",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1TvdbEJ9f4nxaFZdpwfkLTqxNIIMkE8VD",
+      "lyrics": "" },
+	{
+      "id": 31,
+      "name_category": "Proof",
+      "title": "Singularity",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1n6xVqt5AEhuSIYzBxxkSiQmoVk-WPUOt",
+      "lyrics": "" },
+	{
+      "id": 32,
+      "name_category": "Proof",
+      "title": "00:00 (Zero O'Clock)",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1z6vDXaoMjzNmvtVLGPymfyEApb30f8Os",
+      "lyrics": "" },
+	{
+      "id": 33,
+      "name_category": "Proof",
+      "title": "Euphoria",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ewoksHdBuOq5466F2sGtqjwBpp1LRiU3",
+      "lyrics": "" },
+	{
+      "id": 34,
+      "name_category": "Proof",
+      "title": "Dimple",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13CdvToJK4KLCaVqr6TWva9qfsRZGVaaC",
+      "lyrics": "" },
+	{
+      "id": 35,
+      "name_category": "Proof",
+      "title": "For Youth",
+      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1kHRERJLenmCkLNTAhrbUZrmR_VWCUmpy",
+      "lyrics": "" }
+	
+	  
+	  
+    
   ]
 }
