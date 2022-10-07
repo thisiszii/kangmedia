@@ -39,6 +39,14 @@
       "name_category": "BE",
       "image": "https://upload.wikimedia.org/wikipedia/vi/a/a2/BTS_-_Be_Cover.png"
     }
+	
+	{
+      "id": 3,
+      "name_category": "Map Of The Soul: The Journey",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg"
+    }
+	
+	
   ],
   "Data": [
     {
@@ -352,6 +360,115 @@
       "image": "https://upload.wikimedia.org/wikipedia/vi/a/a2/BTS_-_Be_Cover.png",
       "link_mp3": "https://drive.google.com/uc?export=download&id=1H8Y2ZJsDGRcH8HEivoosDaLt409dSX5a",
       "lyrics": "<p>&#39;Cause, ah-ah, I&#39;m in the stars tonight<br /> So watch me bring the fire and set the night alight<br /> <br /> Shoes on, get up in the morn<br /> Cup of milk, let&#39;s rock and roll<br /> King Kong, kick the drum, rolling on like a rolling stone<br /> Sing song when I&#39;m walking home<br /> Jump up to the top, LeBron<br /> Ding dong, call me on my phone<br /> Ice tea and a game of ping pong<br /> <br /> This is getting heavy<br /> Can you hear the bass boom? I&#39;m ready<br /> Life is sweet as honey<br /> Yeah, this beat cha ching like money<br /> Disco overload, I&#39;m into that, I&#39;m good to go<br /> I&#39;m diamond, you know I glow up<br /> Hey, so let&#39;s go<br /> <br /> &#39;Cause, ah-ah, I&#39;m in the stars tonight<br /> So watch me bring the fire and set the night alight<br /> Shining through the city with a little funk and soul<br /> So I&#39;ma light it up like dynamite, whoa<br /> <br /> Bring a friend, join the crowd<br /> Whoever wanna come along<br /> Word up, talk the talk, just move like we off the wall<br /> Day or night the sky&#39;s alight<br /> So we dance to the break of dawn<br /> Ladies and gentlemen, I got the medicine, so you should keep ya eyes on the ball, huh<br /> <br /> This is getting heavy<br /> Can you hear the bass boom? I&#39;m ready<br /> Life is sweet as honey<br /> Yeah, this beat cha ching like money<br /> Disco overload, I&#39;m into that, I&#39;m good to go<br /> I&#39;m diamond, you know I glow up<br /> Let&#39;s go<br /> <br /> &#39;Cause, ah-ah, I&#39;m in the stars tonight<br /> So watch me bring the fire and set the night alight<br /> Shining through the city with a little funk and soul<br /> So I&#39;ma light it up like dynamite, whoa<br /> <br /> Dy-na-na-na, na-na, na-na-na, na-na, life is dynamite<br /> Dy-na-na-na, na-na, na-na-na, na-na, life is dynamite<br /> Shining through the city with a little funk and soul<br /> So I&#39;ma light it up like dynamite, whoa<br /> <br /> Dy-na-na-na, na-na, na-na, eh<br /> Dy-na-na-na, na-na, na-na, eh<br /> Dy-na-na-na, na-na, na-na, eh<br /> Light it up, dynamite<br /> <br /> Dy-na-na-na, na-na, na-na, eh<br /> Dy-na-na-na, na-na, na-na, eh<br /> Dy-na-na-na, na-na, na-na, eh<br /> Light it up, dynamite<br /> <br /> &#39;Cause, ah-ah, I&#39;m in the stars tonight<br /> So watch me bring the fire and set the night alight<br /> Shining through the city with a little funk and soul<br /> So I&#39;ma light it up like dynamite<br /> <br /> (This is ah)<br /> <br /> &#39;Cause, ah-ah, I&#39;m in the stars tonight<br /> So watch me bring the fire and set the night alight<br /> Shining through the city with a little funk and soul<br /> So I&#39;ma light it up like dynamite, whoa<br /> <br /> Dy-na-na-na, na-na, na-na-na, na-na, life is dynamite<br /> Dy-na-na-na, na-na, na-na-na, na-na, life is dynamite<br /> Shining through the city with a little funk and soul<br /> I&#39;ma light it up like dynamite, whoa</p> " 
+	},
+	
+	
+	
+	
+	
+	{
+      "id": 44,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "INTRO: Calling",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1IIm1Z9eP1U9tCKBQZH1hIl7xlzcbCwVY",
+      "lyrics": "" 
+	},
+	{
+      "id": 45,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Stay Gold",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_iY7kFAMP0xNbdLuVAXoobZPbzKKI36t",
+      "lyrics": "" 
+	},
+	{
+      "id": 46,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Boy With Luv - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1v_XYTJRo0iv7W8Bx0nauB0OT5Ar5Ore2",
+      "lyrics": "" 
+	},
+	{
+      "id": 47,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Make It Right - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1TqH2bmyFT9LgBjuHutRkUxsYkx-HTh8T",
+      "lyrics": "" 
+	},
+	{
+      "id": 48,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Dionysus - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1BpjSPk1dRNsWnPXS2suzDR_uWIYEQZM3",
+      "lyrics": "" 
+	},
+	{
+      "id": 49,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "IDOL - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1LE72j1oA-vks170329bJoXCEbnLoXqGr",
+      "lyrics": "" 
+	},
+	{
+      "id": 50,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Airplane pt.2 - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SrOs1-MwP64vnwgSF23ul77OocAMCtTK",
+      "lyrics": "" 
+	},
+	{
+      "id": 51,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "FAKE LOVE - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=126ZYUfCtunLZNYwT9Z4TutSNKlnoN39w",
+      "lyrics": "" 
+	},
+	{
+      "id": 52,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Black Swan - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1htCQ841Hr4PKZbeDepKCcifRTBmlwTGQ",
+      "lyrics": "" 
+	},
+	{
+      "id": 53,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "ON - Japanese ver.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1duADGH-xBr0aospYRcIf8eeTjCZUPKP9",
+      "lyrics": "" 
+	},
+	{
+      "id": 54,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Lights",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1k9raQWflmGxUDDoBltrfqafDIF5xhP4g",
+      "lyrics": "" 
+	},
+	{
+      "id": 55,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Your eyes tell",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1HbddrFCRVErczRz7KKzmhB7Z3ebb8Cpo",
+      "lyrics": "" 
+	},
+	{
+      "id": 56,
+      "name_category": "Map Of The Soul: The Journey",
+      "title": "Outro: The Journey",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1WufW4riJ1wDlc7I-7eMJfvGS4xdpso3W",
+      "lyrics": "" 
 	}
 	
 	
