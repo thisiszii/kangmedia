@@ -28,23 +28,7 @@
     }
   ],
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "Proof",
-      "image": "https://static.qobuz.com/images/covers/7b/la/vpk89l3qyla7b_600.jpg"
-    },
-	
-	{
-      "id": 2,
-      "name_category": "BE",
-      "image": "https://upload.wikimedia.org/wikipedia/vi/a/a2/BTS_-_Be_Cover.png"
-    },
-	
-	{
-      "id": 3,
-      "name_category": "Map Of The Soul: The Journey",
-      "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Map_of_the_Soul-_7_~_The_Journey_~.jpg"
-    },
+   
 	
 	{
       "id": 4,
