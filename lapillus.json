@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3379099559308238/7041034656",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/7288446660",
+      "main_ads_natives":"ca-app-pub-3379099559308238/6981324900",
+      "main_ads_rewards":"ca-app-pub-3379099559308238/1701858310",
+      "backup_ads_natives":"00f620ce22372292",
+      "backup_ads_banner":"e2690aaab9418414",
+      "backup_ads_intertitial":"33b9646f251dfd06",
+      "backup_ads_rewards":"da5d817a562dc0dc",
+      "open_ads_admob":"ca-app-pub-3379099559308238/9636188650",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -27,12 +27,97 @@
       "link_redirect": "https://"
     }
   ],
+  
+  
   "Categories": [
-   
+    {
+      "id": 1,
+      "name_category": "GIRL’s ROUND",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d"
+    },
+	{
+      "id": 1000,
+      "name_category": "Single and EPs",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a"
+    }
     
   ],
+  
+  
   "Data": [
-   
+    {
+      "id": 1,
+      "name_category": "GIRL’s ROUND",
+      "title": "GRATATA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1XwmJ2K89C_95fW61dB9Z7180TW_83nNP",
+      "lyrics": "<p>Lapillus<br /> Gratata<br /> Gratata<br /> <br /> Junbidwaesseo in my bullet<br /> Gadeuk chaewo neoeun keun kkum<br /> Jeogi nopeun goseul hyanghae jojunhae<br /> Ja bangasoereul danggyeo shoot, bang<br /> Yeoseot gaji saekkkal machi flower<br /> Boseokcheoreom binna like a diamond<br /> Gamhi pihaneun il ttawin jeoldae mothae<br /> Ni gaseume kkochyeo baek percent<br /> <br /> Set you on fire, feeling desire<br /> Gamchwowatdeon jinan sigan, yeah<br /> Get up, light up, jamdeun i bameul kkaewo<br /> Jeo kkeuchi eomneun haneul wiro nal deryeoga<br /> <br /> Gratata<br /> Gratata<br /> Da ppangyappangyappangya<br /> Geunyang nae mamdaero jeonbu nolladorok<br /> Jangjeonhae aim, shot, grr, kak<br /> Ta-ta-da, ta-da, ta-da<br /> Gratata<br /> <br /> Gratata-ta<br /> <br /> Yo, wae geuri jogeupae<br /> Ne noryeoge mideumi pillyohae<br /> Eonjengan irwonae ne<br /> Nunape seonggongi boine<br /> Make it (Make it)<br /> Break it (Break it)<br /> Gomin malgo just do it (Yeah)<br /> Sumgyeowatdeon mareul modu baeteo<br /> Sumaneun jeo hater deureul hyanghae oechyeo (Wow)<br /> <br /> Set you on fire, feeling desire<br /> Gamchwowatdeon jinan sigan, yeah<br /> Get up, light up, jamdeun i bameul kkaewo<br /> Jeo kkeuchi eomneun haneul wiro nal deryeoga<br /> <br /> Gratata<br /> Gratata<br /> Da ppangyappangyappangya<br /> Geunyang nae mamdaero jeonbu nolladorok<br /> Jangjeonhae aim, shot, grr, kak<br /> Ta-ta-da, ta-da, ta-da<br /> Gratata<br /> <br /> Ppangyappangyappangya<br /> Gratata<br /> <br /> Gratata<br /> Oh, hey<br /> Boom pow-pow-pow<br /> Go, grr<br /> Just sky, yeah<br /> <br /> I just pulled the trigger, geochimeomneun my dream<br /> Ssodajyeo naeryeowa<br /> Huin sonagicheoreom<br /> Sajeongeopsi bakyeo, oh<br /> <br /> Gratata (Gratata, oh)<br /> Gratata<br /> Da ppangyappangyappangya<br /> Geunyang nae mamdaero jeonbu nolladorok<br /> Jangjeonhae aim, shot, grr, kak<br /> Ta-ta-da, ta-da, ta-da<br /> Gratata<br /> <br /> Oh<br /> Ppangyappangyappangya<br /> Tang! (Yeah, baby, wow)<br /> Ppangyappangyappangya<br /> Gratata</p> " 
+	},
+	{
+      "id": 2,
+      "name_category": "GIRL’s ROUND",
+      "title": "Burn With Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1-3wJ_bpDL0XfeGyUGReM252oACYgNH7N",
+      "lyrics": "<p>Ama nan ajikdo I&#39;m so weak, ayy<br /> Dasin eopda saenggakaenneunde, oh<br /> Noryeok haeboryeo haedo gyeolgugen neol chatge doego<br /> Meoritsogeul eojilleo I&#39;m still weak<br /> <br /> Yo, get ready, I&#39;m ready<br /> Neowa inneun sungani<br /> Nan maeil tto maeil<br /> Geuriwo geu nal bami<br /> Your eyes on me<br /> Blow my mind imi<br /> Modeungeol georeosseo i gamjeonge<br /> Just stay with me<br /> Nae mami jakku beonjyeoseo gyesok keojyeo<br /> Bulkkotcheoreom deo taolla<br /> <br /> Oh, burn with love<br /> Burn with love<br /> I wanna burn with love<br /> <br /> With love, with love, with love<br /> With love, with love<br /> Burn with love<br /> With love, with love, with love<br /> With love, with love<br /> I wanna burn with love<br /> <br /> Miwotdeon mamdo da ichyeojyeoga<br /> Mallon kkeuchira haedo (I miss you, boy)<br /> Jogeumssik jogeumssik fallin&#39;<br /> Neoege neoege rollin&#39;<br /> Neoreul itji mothaeseo I&#39;m steal weak<br /> <br /> Jamideulji mothae na awake<br /> Beoseonago sipeodo nan wae<br /> Makji mothae tto majimothae<br /> Neoegero kkeullyeoga no way, no<br /> Nae mami jakku beonjyeoseo gyesok keojyeo<br /> Bulkkotcheoreom deo taolla<br /> <br /> Oh, burn with love<br /> Burn with love<br /> I wanna burn with love<br /> <br /> With love, with love, with love<br /> With love, with love<br /> Burn with love<br /> With love, with love, with love<br /> With love, with love<br /> I wanna burn with love<br /> <br /> Neon jiwojiji ana<br /> Gyesokaeseo maemdora your love<br /> Doradoraogimaneul wonhae<br /> Huhoeeopsi ireoke I want it<br /> Majimakkkaji taewo<br /> <br /> Oh, burn with love<br /> Burn with love<br /> I wanna burn with love<br /> <br /> With love, with love, with love<br /> With love, with love<br /> Burn with love<br /> With love, with love, with love<br /> With love, with love<br /> I wanna burn with love</p> " 
+	},
+	{
+      "id": 3,
+      "name_category": "GIRL’s ROUND",
+      "title": "Queendom",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Rvg_WilmygyHVw1fwgfpoxXrdFa2N-3s",
+      "lyrics": "<p>We got nothin&#39; to lose amado yoksimi mana (a)<br /> Young and pretty way hanado ppajijil ana (a)<br /> Girls wanna be me geuge kkomirago say<br /> Gajigo taeeonan ge 99inde mwo eotteokae<br /> Do you know me? (Late)<br /> Mal hanmadi an haedo imi fallin&#39; in love<br /> Jureun jeogi (ji)<br /> Nareul dugoseo moduga push in, push in<br /> Love to hate these love<br /> So you can&#39;t get my attention<br /> I&#39;m pretty but beware boneun sungan neon obsession<br /> <br /> Yeobwara bulkkochi piljieoda<br /> Naega ganeun gireun fire<br /> We make it through the night<br /> Boda dareun segye yeollil geoya now<br /> Welcome to my<br /> <br /> Queendom, di-dom-di-ya<br /> Kungdeoreo reoreoreom (kungdeoreo reoreoreom)<br /> Queendom, di-dom-di-ya (What? Yes!)<br /> Kungdeoreo reoreoreom<br /> Kungdeonggideok kungdeoreoreom<br /> <br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> (Go) cheoeumil geol neomu joa like a freedom<br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> Queendom di-ya-dom-di-dom-di-ya-ya<br /> <br /> I got that B nae nunbicheun dokae (dokae)<br /> Outfit majeo perfect (dopae)<br /> The queen is hoppin&#39; trippin&#39;<br /> Da dwiro back, back, back nal yeongjeopae<br /> Follow me now, turn up the light<br /> Sinnage pungageul ulligeora teojineun flash<br /> Da jjigeodo dameul su eopji neomchineun flex<br /> <br /> Yeobwara bulkkochi piljieoda<br /> Love doesn&#39;t last forever<br /> We&#39;ll make it through the night<br /> Boda dareun segye yeollil geoya now<br /> Welcome to my<br /> <br /> Queendom, di-dom-di-ya<br /> Kungdeoreo reoreoreom (kungdeoreo reoreoreom)<br /> Queendom, di-dom-di-ya (What? Yes!)<br /> Kungdeoreo reoreoreom<br /> Kungdeonggideok kungdeoreoreom<br /> <br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> (Go) cheoeumil geol neomu joa like a freedom<br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> Queendom di-ya-dom-di-dom-di-ya-ya<br /> <br /> Bitcheoreom shine on me<br /> Neon bolsurok fallin&#39;<br /> Ajikdo nal mollatdamyeon<br /> You&#39;re dumb di-dumb, dumb<br /> Dumb di-dumb, feel me up<br /> Follow me, follow me now<br /> Follow me, follow me now<br /> Kkaebuswo wiro ollawa come in<br /> Bakchago ireona neoreul kkaewo gaseumi tteugeopge<br /> <br /> Queendom, di-dom-di-ya (Woah, oh woah, eh-oh)<br /> Kungdeoreo reoreoreom (Salute)<br /> Queendom, di-dom-di-ya (Woah, oh woah, eh-oh)<br /> Kungdeoreo reoreoreom<br /> Kungdeonggideok kungdeoreoreom<br /> <br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> (Go) cheoeumil geol neomu joa like a freedom<br /> (Go) Follow me up, come on and on<br /> Amado ireon neukkim<br /> Queendom di-ya-dom-di-dom-di-ya-ya</p> " 
+	},
+	{
+      "id": 4,
+      "name_category": "GIRL’s ROUND",
+      "title": "HIT YA!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1CLSBdZ6wP4Fr6rKsj6-ZXylevfEHo0Vl",
+      "lyrics": "<p>10, 9, 8, 7<br /> 6, 5, 4, 3, 2, 1 (Shh)<br /> Na-na-na-na, na, na<br /> Na-na-na-na, na, na (Woah, woah)<br /> <br /> Hit ya!<br /> Hit ya!<br /> My engine never stop<br /> <br /> I&#39;m a cat<br /> Bogieneun yeppeun nabi<br /> But watch your back<br /> Injeongsajeong eomneun bad bitch<br /> <br /> Geunyang girls waneun geubi dareun baddest<br /> Tok sswa like a coke<br /> And smooth like butter<br /> <br /> Who is enemy?<br /> And who&#39;s gon follow me?<br /> I seoneul gareuni<br /> Hwaksilhaejineun phenomenon<br /> Yeah that&#39;s me<br /> <br /> Nuga ttara oltenga<br /> Ttwineun neohui wie na<br /> Inneun himkkeot chyeo<br /> Nae deungjange baksu<br /> <br /> Hit ya! woah!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> Hit ya! Hit ya! Hit ya! Hit ya<br /> Hit ya! Hit ya! Hit ya! Hit ya<br /> Hit ya! Hit ya! Hit ya! Hit ya!<br /> Hit ya! Hit ya!<br /> Gonna make you sweat<br /> <br /> Hit ya! woah!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> Amudo dachi mothaneun geu gose<br /> Naega seoisseul tenikka<br /> Silkeot damadwo kkaman ne du nune<br /> <br /> Seontaekae do u ride or die<br /> (Never stop, never stop)<br /> We gon&#39; reach the star<br /> Gyesok amman bogo dallyeo<br /> <br /> (Run) you don&#39;t let down<br /> (Run) you don&#39;t let down<br /> Watch me now<br /> Watch me now<br /> Fresh than other girls did<br /> <br /> Hit ya!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> 1,2 1,2</p> " 
+	},
+	{
+      "id": 5,
+      "name_category": "GIRL’s ROUND",
+      "title": "GRATATA (Instrumental)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273722ebc2bcd476035b830b35d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1K-_gh3nTFT41OARxZ5EqJ-EBXa0i7yky",
+      "lyrics": "" 
+	},
+	
+	
+	
+	
+	
+	
+	{
+      "id": 1000,
+      "name_category": "Single and EPs",
+      "title": "HIT YA!",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1w3L0c0EApDxnzfxVrYgwnPvIHc0QNeVD",
+      "lyrics": "<p>10, 9, 8, 7<br /> 6, 5, 4, 3, 2, 1 (Shh)<br /> Na-na-na-na, na, na<br /> Na-na-na-na, na, na (Woah, woah)<br /> <br /> Hit ya!<br /> Hit ya!<br /> My engine never stop<br /> <br /> I&#39;m a cat<br /> Bogieneun yeppeun nabi<br /> But watch your back<br /> Injeongsajeong eomneun bad bitch<br /> <br /> Geunyang girls waneun geubi dareun baddest<br /> Tok sswa like a coke<br /> And smooth like butter<br /> <br /> Who is enemy?<br /> And who&#39;s gon follow me?<br /> I seoneul gareuni<br /> Hwaksilhaejineun phenomenon<br /> Yeah that&#39;s me<br /> <br /> Nuga ttara oltenga<br /> Ttwineun neohui wie na<br /> Inneun himkkeot chyeo<br /> Nae deungjange baksu<br /> <br /> Hit ya! woah!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> Hit ya! Hit ya! Hit ya! Hit ya<br /> Hit ya! Hit ya! Hit ya! Hit ya<br /> Hit ya! Hit ya! Hit ya! Hit ya!<br /> Hit ya! Hit ya!<br /> Gonna make you sweat<br /> <br /> Hit ya! woah!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> Amudo dachi mothaneun geu gose<br /> Naega seoisseul tenikka<br /> Silkeot damadwo kkaman ne du nune<br /> <br /> Seontaekae do u ride or die<br /> (Never stop, never stop)<br /> We gon&#39; reach the star<br /> Gyesok amman bogo dallyeo<br /> <br /> (Run) you don&#39;t let down<br /> (Run) you don&#39;t let down<br /> Watch me now<br /> Watch me now<br /> Fresh than other girls did<br /> <br /> Hit ya!<br /> Hit ya! Hit ya!<br /> Da bikyeo<br /> My engine never stop<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> I&#39;m gonna make you sweat<br /> My hip is like a wagon<br /> Sajeongeopsi run<br /> Hit ya! Hit ya! Hit ya!<br /> <br /> 1,2 1,2</p> " 
+	},
+	{
+      "id": 1001,
+      "name_category": "Single and EPs",
+      "title": "HIT YA! (Instrumental)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1kaJGTD0FVZO-N75v9OIAaXEuA_kWyjfE",
+      "lyrics": "" 
+	},
+	{
+      "id": 1002,
+      "name_category": "Single and EPs",
+      "title": "Lapillus DEBUT Message",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb219c902fd54336eb3f08fa8a",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1bH25O0CMuNHNCAlof4cbMNwbuAKe7An_",
+      "lyrics": "" 
+	}
+	
+	
+	
 	
   ]
 }
