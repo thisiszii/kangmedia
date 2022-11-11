@@ -39,12 +39,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55"
     },
 	{
-      "id": 3,
+      "id": 2,
+      "name_category": "MANIFESTO : DAY 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa"
+    },
+	{
+      "id": 4,
       "name_category": "BORDER : CARNIVAL",
       "image": "https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e"
     },
 	{
-      "id": 4,
+      "id": 5,
       "name_category": "BORDER : DAY ONE",
       "image": "https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554"
     },
