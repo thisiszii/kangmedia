@@ -1,0 +1,491 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Loans",
+      "high_paying_keyword_3": "Degree",
+      "high_paying_keyword_4": "Lawyer",
+      "high_paying_keyword_5": "Credit",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "Categories": [
+	{
+      "id": 1,
+      "name_category": "Singles",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838"
+    },
+    {
+      "id": 2,
+      "name_category": "4 ONLY",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69"
+    },
+	{
+      "id": 3,
+      "name_category": "First Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d"
+    },
+	{
+      "id": 4,
+      "name_category": "24 °C",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274"
+    },
+	{
+      "id": 5,
+      "name_category": "SEOULITE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01"
+    },
+
+    
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "4 ONLY",
+      "title": "Savior (feat. B.I)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1T84IBTEeMnNJcKYQtjEv43ztzZcQuFKp",
+      "lyrics": "<p>neon machi unmyeongcheoreom<br /> hamkke isseumi jayeonseureowo<br /> jun jeokdo eomneun nae mamui jogageul<br /> neon imi gajigo isseo</p> <p>jeolmang eomneun sarang isseulkka<br /> neon nal eodiro deryeogaryeona<br /> jeongmal neoneun eonjekkajirado<br /> nae yeope isseojul su isseulkka</p> <p>naui guwonja haneuri naeryeojusyeonna<br /> neoreul ango seulpeun kkumeul kkueotda<br /> neoreul bon sungan mareopsi al su isseotda<br /> nae insaengeul mangchil guwonjaran geol</p> <p>neon machi yeonghwacheoreom<br /> nareul teukbyeolhage mandeureojwo<br /> sumeul swineun geotdo uimireul buyeohage dwae<br /> sseuldeeopsi nal salgo sipge hae</p> <p>jeolmang eomneun sarang isseulkka<br /> neon nal eodiro deryeogaryeona<br /> jeongmal neoneun eonjekkajirado<br /> nae yeope isseojul su isseulkka</p> <p>naui guwonja haneuri naeryeojusyeonna<br /> neoreul ango seulpeun kkumeul kkueotda<br /> neoreul bon sungan mareopsi al su isseotda<br /> nae insaengeul mangchil guwonjaran geol</p> <p>hyeoe nokji aneul daneodeureul kkeonae<br /> yeppeuge pojanghago seoroui sesangeul geonne<br /> moreul ri eopjana eochapi sarangeun byeonhae</p> <p>charari yeongwoneul minneun jjogi maeumeun pyeonhae<br /> hwipsseullyeo tteonaeryeoga geugoseseo urineun eotteon pyojeong jieulkka<br /> gwageoneun huimihago miraeneun mijihajana<br /> geunyang dari tteumyeon dulmanui gungjeoneuro tteonalkka</p> <p>naui guwonja haneuri naeryeojusyeonna<br /> neoreul ango seulpeun kkumeul kkueotda<br /> neoreul bon sungan mareopsi al su isseotda<br /> nae insaengeul mangchil guwonjaran geol</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "4 ONLY",
+      "title": "Intentions",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1sbxxsb5W5sSHUqIG32YH_MwUJZdA_t4z",
+      "lyrics": "<p>Yeah, yeah, yeah<br /> Doo-doo-doo-doo<br /> Yeah, yeah, yeah</p> <p>chumeul chudeut umjigimyeo<br /> nal gatgo noneun geudaeui uido<br /> mwo meokgo simni mwo gatgo simni<br /> geureon geolloneun nal gajil su eopjyo</p> <p>heuneujeokeuneujeokgeoryeo<br /> tteudeudeut mijigeun georyeo<br /> neomu eoryeowo<br /> eoryeoumyeon iljjigamchi pogihae</p> <p>geudaeui uido<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> saenggagui miro<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> maeumui piro<br /> (Doo-doo-doo)<br /> ilkiji anneun jido<br /> (Doo-doo-doo)</p> <p>wae namjadeureun eorin yeojareul<br /> gareuchiryeogo aereul sseuneunji<br /> geu oseun isanghae neon ige eoullyeo<br /> But I just want your love (I just want your love)<br /> nan jichyeoman gane</p> <p>ijen doljikgureul nallyeo<br /> aemaehan maldeureun beoryeo<br /> mwoga duryeowo<br /> duryeoumyeon iljjigamchi pogihae</p> <p>geudaeui uido<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> saenggagui miro<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> maeumui piro<br /> (Doo-doo-doo)<br /> ilkiji anneun jido<br /> (Doo-doo-doo)</p> <p>Yeah, yeah, yeah<br /> Yeah, yeah, yeah<br /> Yeah, yeah, yeah</p> <p>chumeul chudeut umjigimyeo<br /> nal gatgo noneun geudaeui uido</p> <p>geudaeui uido<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> saenggagui miro<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> maeumui piro<br /> (Doo-doo-doo)<br /> ilkiji anneun jido<br /> (Doo-doo-doo)<br /> geudaeui uido<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> saenggagui miro<br /> (Doo-doo-doo, doo-doo-doo-doo)<br /> maeumui piro<br /> (Doo-doo-doo)<br /> ilkiji anneun jido<br /> (Doo-doo-doo)</p> <p>Yeah, yeah, yeah<br /> Yeah, yeah, yeah<br /> Yeah, yeah, yeah</p> <p>geudaeui uido</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "4 ONLY",
+      "title": "Waterride",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1IANLA70AVcBylf4W1BHvFk3JNGFj2YpD",
+      "lyrics": "<p>Everybody clap your hands like this<br /> Oh-oh, oh-oh-oh<br /> Oh-oh, oh-oh-oh<br /> Oh-oh, oh-oh-oh<br /> Ooh-ooh-ooh</p> <p>mwon malman hamyeon mulgo neureojineun geudae<br /> museun mari deo pillyohagesseo (ooh-ooh-ooh)<br /> geureoke mak deonjimyeon dan jul aneun geudae<br /> ijeneun nado da nwabeorigesseo</p> <p>ige tong marinji anim doenjanginji<br /> algoseona malhaneun geonji<br /> eoneusae jinsireun heurithaejyeo ganeun<br /> multagie heulleogane</p> <p>marimyeon marimyeon marimyeon dan jul ara<br /> geollimyeon geollimyeon geollimyeon balppaemhago<br /> animyeon animyeon animyeon mallan sigeuro<br /> (Ooh-ooh-ooh)</p> <p>garimyeon garimyeon garimyeon doeneun jul ara<br /> ijenajeojena eonjena cheoldeul geoya<br /> haji ma haji ma haji mallamyeon jom haji ma</p> <p>And I&#39;d be cryin&#39; like<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh, ooh</p> <p>And I&#39;d be cryin&#39; like<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh, ooh<br /> (Ooh-ooh-ooh)</p> <p>mwon mareul haedo ije naneun an mitji<br /> mideobwatja mwon soyong itgesseo (ooh-ooh-ooh)<br /> seumeulseumeul neunggeulleunggeul gieo oji<br /> seokeoseuga ttaro eopgesseo</p> <p>ige tong marinji anim doenjanginji<br /> algoseona malhaneun geonji<br /> eoneusae jinsireun heurithaejyeo ganeun<br /> multagie heulleogane</p> <p>marimyeon marimyeon marimyeon dan jul ara<br /> geollimyeon geollimyeon geollimyeon balppaemhago<br /> animyeon animyeon animyeon mallan sigeuro<br /> (Ooh-ooh-ooh)</p> <p>garimyeon garimyeon garimyeon doeneunjul ara<br /> ijenajeojena eonjena cheoldeul geoya<br /> haji ma haji ma haji mallamyeon jom haji ma</p> <p>And I&#39;d be cryin&#39; like<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh, ooh</p> <p>(Ooh-ooh-ooh)<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh<br /> Ooh, ooh, ooh-ooh-ooh, ooh</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "4 ONLY",
+      "title": "Bye",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xs_lH-Fa94NV4ZJno4wmMTUD9KFzeP18",
+      "lyrics": "<p>Gray</p> <p>Okay, bye I malbuteo hago sijakalge<br /> neoe daehan geot iman son noeullae<br /> ttaradanineun geu yeojaaedeul jungeneun<br /> neol kkok daleun aero mannagil bilge<br /> Okay, bye miryeon, imi sarajin ji orae<br /> guchahage butjamneun geo geumanhallae?<br /> B-bye, I&#39;m fine nae geokjeong malgo geunyang neona jalhae</p> <p>nwa geunyang nal neon maeil bammada<br /> Gimme love, gimme love (igijeogin neo)<br /> Gimme love, gimme love (imi jeogin neo)<br /> nwa geunyang nal maebeon banbokae<br /> Gimme love, gimme love (igijeogin neo)<br /> imi neon naege sarajin ji orae</p> <p>Bye, bye, bye, my love<br /> ije geumanhaedo dwae<br /> sarangi noryeogeuro dwae?<br /> Bye, bye, bye, my love<br /> ne gyeoteman itgie<br /> naega akkaun geot gata<br /> So baby, bye, bye</p> <p>sutjaro sejamyeon like se beon jung se beon<br /> maeilgachi banbokdoeneun lie ne beon jung ne beon<br /> repeotori jom bakkwo maebeon gatji maebeon<br /> jigyeowo yeah, I&#39;m done<br /> bigyohaneun geon aninde<br /> geudaji byeol bol il eomne<br /> ije wa kkeunnaebeorin ge<br /> naege haengun gata</p> <p>nwa geunyang nal neon maeil bammada<br /> Gimme love, gimme love (igijeogin neo)<br /> Gimme love, gimme love (imi jeogin neo)<br /> nwa geunyang nal maebeon banbokae<br /> Gimme love, gimme love (igijeogin neo)<br /> imi neon naege sarajin ji orae</p> <p>Bye, bye, bye, my love<br /> ije geumanhaedo dwae<br /> sarangi noryeogeuro dwae?<br /> Bye, bye, bye, my love<br /> ne gyeoteman itgie<br /> naega akkaun geot gata<br /> So baby, bye, bye</p> <p>You-ooh-ooh<br /> apeuge hago mianhadan mallo kkeunnae<br /> You-ooh-ooh<br /> amureochi anke dasi naege doraoneun ge</p> <p>Bye, bye, bye, my love<br /> ije geumanhaedo dwae<br /> sarangi noryeogeuro dwae?<br /> Bye, bye, bye, my love<br /> ne gyeoteman itgie<br /> naega akkaun geot gata<br /> So baby, bye, bye</p> <p>Bye, bye, bye, my love<br /> seoro gal gil gamyeon dwae<br /> cheoeumbuteo naminde wae?<br /> Bye, bye, bye, my love<br /> dwidora boji aneullae<br /> seulpeohaneun naega silkie<br /> So babe bye, bye</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "4 ONLY",
+      "title": "Red Lipstick (feat. Yoonmirae)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1fFBt4SGFxiinoSZYkDMrE0-09y4aWdm7",
+      "lyrics": "<p>Mwah</p> <p>oneul bameun I bunwigie chwihae<br /> amureon saenggak eopsi groove it<br /> gominhaji ma just do it<br /> Move your body like that<br /> biteulgeorimyeon eottae I like that, yeah</p> <p>Let me blow your mind<br /> jiruhan saramdeul sok neon machi friday night<br /> So take my hand, nae mameul heundeureobwa</p> <p>ppalgan ripseutik<br /> jinhage bareugo<br /> So dance, dance, dance, keep on<br /> Dance, dance, dance, people<br /> ppalgan ripseutik<br /> neo ttaemune beonjyeodo<br /> Just dance, dance, dance, keep on<br /> Dance, dance, dance, people</p> <p>nawa namanui baby boo, sarangeun forever<br /> nugudo banghaehal su eopji stop it, they could never<br /> But never mind that, jigeum rewind that<br /> I noraecheoreom dasi han beon deo play back<br /> Spin me round and round, momeul up and down<br /> I bami jinagagi jeone do it right now<br /> I bunwigi geudaero turn the music up<br /> &#39;Cause the party ain&#39;t a party till we all turned off</p> <p>gonna lose your mind<br /> kkeojiji anneun bulbit soge seourui bam<br /> So take my hand ne momeul heundeureobwa</p> <p>ppalgan ripseutik<br /> jinhage bareugo<br /> So dance, dance, dance, keep on<br /> Dance, dance, dance, people<br /> ppalgan ripseutik<br /> neo ttaemune beonjyeodo<br /> Just dance, dance, dance, keep on<br /> Dance, dance, dance, people</p> <p>I bami jinagagi jeone do it right now<br /> neukkimi wa neowa na sai something so loud<br /> geu ipsullo naege saranghandago malhae, oh, baby</p> <p>ppalgan ripseutik<br /> jinhage bareugo<br /> So dance, dance, dance, keep on<br /> Dance, dance, dance, people<br /> ppalgan ripseutik<br /> neo ttaemune beonjyeodo<br /> Just dance, dance, dance, keep on<br /> Dance, dance, dance, people</p> <p>la-di-da-li, move your body<br /> Don&#39;t stop, uri hana doel ttae kkaji<br /> Six in the morning and we still going<br /> Dance, dance, dance, people<br /> la-di-da-li, move your body<br /> Don&#39;t stop, uri hana doel ttae kkaji<br /> Six in the morning and we still going<br /> Dance, dance, dance, people</p> <p>hwaryeohan diseuko jomyeong araeseo<br /> neowa na duri I bameul saewo<br /> hwaryeohan diseuko bicheul badeumyeo<br /> Just dance, dance, dance, keep on (uh huh)<br /> Dance, dance, dance, people (the party ain&#39;t a party, ha-ha-ha)</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "4 ONLY",
+      "title": "H.S.K.T. (feat. Wonstein)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1pg4GFDOJu1HLEiQnxi0RXpHVun9jOGZY",
+      "lyrics": "<p>neon nareul eolmana saenggakae eum soljikage<br /> ne ma-eumeul yeoreobol su itdamyeon joeul tende</p> <p>geureoni mallo haejwo guji<br /> dulleobol piryo eopji juwi<br /> dareun yeojaneun gwansim juji malgo<br /> naman bwa I&rsquo;m sorry</p> <p>sarang, wollae igijuui<br /> nopilge uri sai suwi<br /> ne juwie imanhan yeoja bwasseo?<br /> I got what you need</p> <p>nae meori eokkae mureup bal<br /> geumankeum saranghae jwo<br /> nae meori eokkae mureup bal<br /> You know what I mean<br /> nae meori eokkae mureup bal<br /> jung eodiga joa<br /> nae meori eokkae mureup bal<br /> Sorry not sorry</p> <p>nae meori eokkae mureup bal<br /> Hm, hm, hm<br /> nae meori eokkae mureup bal<br /> sunseodaero yeah<br /> nae meori eokkae mureup bal<br /> nega mwol wonhadeun<br /> nae meori eokkae mureup bal<br /> neoui geu meori eokkae mureup woo</p> <p>Yeah, yeah geugeo batgo nan naega saranghandamyeon (yeah)<br /> neoui dareun bubundeulkkaji an-go saragal su itdago (hoo!)<br /> geurae nan, AI (AI) robot gateun ppeonhan answer (ahh)<br /> geuraedo gyesok jal daruneun neol bomyeon<br /> You are early adopter, doctor!<br /> I don&#39;t know what to say<br /> Do you really think she needs me? (She needs me?)<br /> jukdorok saranghanyaneun jilmuneul haetji (ok, ok)<br /> jukdorok saranghanyaneun jilmuneul haetji breathe (hyanghae breathe)<br /> hoksi (she ain&#39;t going home when she post to be)</p> <p>nae meori eokkae mureup bal<br /> meori eokkae mureup bal<br /> nae meori eokkae mureup bal<br /> You know what I mean, woah<br /> nae meori eokkae mureup bal<br /> meori eokkae mureup bal<br /> nae meori eokkae mureup bal<br /> Sorry not sorry</p> <p>nae meori eokkae mureup bal<br /> meori eokkae mureup bal<br /> nae meori eokkae mureup bal<br /> meori, sunseodaero yeah<br /> nae meori eokkae mureup bal<br /> meori eokkae mureup bal<br /> nae meori eokkae mureup bal<br /> neoui geu meori eokkae mureup woo</p> <p>dojeohi ijeul su eopseulgeol<br /> neon naui moksoributeo jatae<br /> geuttae matjabatdeon neoui du soni<br /> Babe, you make me<br /> dojeohi ijeul su eopseulgeol<br /> neon naui moksoributeo jatae<br /> geuttae matjabatdeon neoui du soni<br /> Yeah, I know it</p> <p>Don&rsquo;t you want me?<br /> seonmul dwosseuni wonhamyeon gajyeoga<br /> ne ma-eumdaero (ne ma-eumdaero)<br /> ne ma-eumdaero (ne ma-eumdaero)<br /> ne ma-eumdaero (ne ma-eumdaero)<br /> gyeolguk nae ma-eumdaero</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "4 ONLY",
+      "title": "Safety Zone",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Qq_FdP58tL75WwNPIacZArIc3gzn86Yp",
+      "lyrics": "<p>seollemi mudyeojimyeon kkeuchira swipge saenggakae<br /> mundeuk mareopsido neoui mami boine<br /> nataehameun gwangyeui kkeuteul malhajiman<br /> iksukameun wanjeonhan sarangui sijak<br /> andamyeon almankeum moreundamyeon molla neol<br /> Ooh, but, achime ireonamyeon iksukage neol wonhae<br /> dareun aedeulgwaui harutbamgwa dareuge<br /> so neodo naege boyeojwo</p> <p>neoui geu sarange anjeonjidaega eodisseo<br /> neoui geu maeume anjeonjidaega eodisseo?<br /> meonghaejin pyojeong dunhaejin simjang<br /> jota malhamyeon doraseo dalla<br /> ireonde eotteoke neol mitgesseo<br /> neoui geu sarange anjeonjidaega eodisseo<br /> neoui geu maeume anjeonjidaega eodisseo?<br /> yeongwonhan ge itdamyeon boyeojwo<br /> nan neoraneun saram hanal molla<br /> sangcheo ibeul ge ppeonhae</p> <p>Baby, I can&#39;t trust you, you, you<br /> Baby, I can&#39;t trust you, you, you<br /> naege mideumeul jwo<br /> neoege naega jom deo gipi gal su itge<br /> Oh, baby, I can&#39;t trust you, you, you<br /> Baby, I can&#39;t trust you, you, you<br /> naege mideumeul jwo<br /> neoege naega jom deo gipi gal su itge<br /> Oh, baby</p> <p>bamgeorireul banghwanghaedo uri saiman tteoolla<br /> wonhan geon keun geotdo anya sasohan geotdeul<br /> uri sai banbokdo hal mankeum haenna bwa<br /> naegeseo meoreojyeo ganeun deuthan neo<br /> iyuga itdamyeon algo sipeo uri dul<br /> Ooh, but, dwidorabomyeon dasi tto nal wonhaneun neonikka<br /> heunhi jinaganeun harutbamgwan dareuge<br /> yeojeonhada malhaejwo (hmm)</p> <p>neoui geu sarange anjeonjidaega eodisseo<br /> neoui geu maeume anjeonjidaega eodisseo?<br /> meonghaejin pyojeong dunhaejin simjang<br /> jota malhamyeon doraseo dalla<br /> ireonde eotteoke neol mitgesseo<br /> neoui geu sarange anjeonjidaega eodisseo<br /> neoui geu maeume anjeonjidaega eodisseo?<br /> yeongwonhan ge itdamyeon boyeojwo<br /> nan neoraneun saram hanal molla<br /> sangcheo ibeul ge ppeonhae</p> <p>Baby, I can&#39;t trust you, you, you<br /> Baby, I can&#39;t trust you, you, you<br /> naege mideumeul jwo<br /> neoege naega jom deo gipi gal su itge<br /> Oh, baby, I can&#39;t trust you, you, you<br /> Baby, I can&#39;t trust you, you, you<br /> naege mideumeul jwo<br /> neoege naega jom deo gipi gal su itge<br /> Oh, baby</p> <p>yeongwonhan geon eopgetjiman mideobolge<br /> neul areumdapjineun antaedo gidarilge<br /> yeongwonhan geotbodado deo areumdapge<br /> ibeoni majimakcheoreom jeonbu geolge<br /> Hmm<br /> Hmm</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "4 ONLY",
+      "title": "What is Love",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ym28hYHMZ8SbyCUuO_sAKqI0A0_tJuhA",
+      "lyrics": "<p>biseuthan chwihyanggwa biseuthan immat<br /> cheoeum algobuteoneun eotteon geol bogo meogeodo<br /> neoe daehan saenggageul tteolchigi eoryeopdeora<br /> meomchuneun bangbeobi mwoya<br /> neohui jip bimilbeonho mwoya</p> <p>dul jung eotteon ge joa<br /> ne mameun mwoya naege malhaebwa<br /> dul jung eotteon ge joa<br /> nae mameun gata</p> <p>eoryeowo (what is the love?)<br /> ne mamеun eoryeowo (what is the lovе?)<br /> ne dabeun eoryeowo (this is the real one)<br /> duryeowo (sweetest taste)<br /> naega da mangchilkka bwa<br /> eoryeowo (I don&#39;t know what is the love)<br /> ne mameun eoryeowo (I don&#39;t know what is the love)<br /> duryeowo (I don&#39;t know this is real one)<br /> naega da mangchilkka bwa (but I know it&#39;s sweetest taste)</p> <p>biseuthan deut dareun geon<br /> ttadeuthan keopiwa chagaun keopi<br /> sasohameseo neukkin neomu dareun ondocha<br /> dallado neomu dalla machi heukgwa baek<br /> neowa nan mulgwa gireum gata</p> <p>dul jung eotteon ge joa<br /> ne mameun mwoya naege malhaebwa<br /> dul jung eotteon ge joa<br /> nae mameun gata</p> <p>eoryeowo (what is the love?)<br /> ne mameun eoryeowo (what is the love?)<br /> ne dabeun eoryeowo (this is the real one)<br /> duryeowo (sweetest taste)<br /> naega da mangchilkka bwa<br /> eoryeowo (I don&#39;t know what is the love)<br /> ne mameun eoryeowo (I don&#39;t know what is the love)<br /> duryeowo (I don&#39;t know this is real one)<br /> naega da mangchilkka bwa (but I know it&#39;s sweetest taste)</p> <p>jeonbu malhaejulge<br /> nae mami eotteonji allyeojugo sipeo<br /> nan jom deo deutgi joeun yeppeun malgwa sarangseureoun misoro<br /> mame deulgo sipeo aereul sseo<br /> neol jeonbu gatgo sipeo<br /> nae soyuro mandeulgo sipeo<br /> geugeon yoksimin geol jal aneundedo<br /> Nobody can do this<br /> neocheoreom binnal sun eopseo<br /> nuni meoreo beoril jigyeong gwajang jom seokkeoseo<br /> Ain&#39;t nobody can do this<br /> Fly haneul wie bung tteoisseo<br /> dadeul malhae urin jom jal eoullineun hana</p> <p>eoryeowo (what is the love?)<br /> ne mameun eoryeowo (what is the love?)<br /> ne dabeun eoryeowo (this is the real one)<br /> duryeowo (sweetest taste)<br /> naega da mangchilkka bwa<br /> eoryeowo (I don&#39;t know what is the love)<br /> ne mameun eoryeowo (I don&#39;t know what is the love)<br /> duryeowo (I don&#39;t know this is real one)<br /> naega da mangchilkka bwa (but I know it&#39;s sweetest taste)</p> <p>a eojetbam naui kkumsoge<br /> nae ireumeul bulleojudeon neo<br /> ama nan aju oraetdongan neol<br /> a</p>"
+	},
+	{
+      "id": 9,
+      "name_category": "4 ONLY",
+      "title": "Darling",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1vvt2UfCP_ZFuwTawsv0iUmIb1PbR30pN",
+      "lyrics": "<p>han beondo ireon jeok eopseonneunde<br /> simjangi ireoke seodureuneun ge<br /> gyeote nega isseodo nan amman boge dwae<br /> amu saido anin urinde<br /> wae ireoke singyeong sseuineun geonde<br /> bureugo sipeo neol darling you</p> <p>nega wonhamyeon bulleojulge<br /> neol wihae mandeun noraero<br /> Sing it like ooh, ooh-ooh<br /> Like ooh, ooh, ooh, ooh<br /> nae mami seodureuneun geolkka<br /> neodo nawa gateulkka<br /> Sing it like ooh, ooh-ooh<br /> Like ooh, ooh, ooh</p> <p>Baby, just call you a darling<br /> Let me call you a darling<br /> sangcheobadeun neoui binjaril chaeuge haejwo<br /> Call you a darling<br /> Can I call you a darling?<br /> dareun sarameun sileo<br /> neo anim an dwae just you</p> <p>Told you, baby, I can be your hero<br /> geokjeonghal pillyo eopseo, ten to zero<br /> myeot sal chai an naneun nai chai<br /> mwo geureon geollo gominhae no way<br /> hangeoreum gakkawojimyeo gipeojineun gamjeong<br /> juwie neo malgon an boineun nae mam eotteoke hae<br /> deo keojyeoman ganeun imameun sumgiryeo haedo tireul nae</p> <p>nega wonhamyeon bulleojulge<br /> neol wihae mandeun noraero<br /> Sing it like ooh, ooh-ooh<br /> Like ooh, ooh, ooh, ooh<br /> nae mami seodureuneun geolkka<br /> neodo nawa gateulkka<br /> Sing it like ooh, ooh-ooh<br /> Like ooh</p> <p>Baby, just call you a darling<br /> Let me call you a darling<br /> sangcheobadeun neoui binjaril chaeuge haejwo<br /> Call you a darling<br /> Can I call you a darling?<br /> dareun sarameun sileo<br /> neo anim an dwae just you</p> <p>You nal deo gidarige haji ma<br /> nado moreuge neoman bomyeon ireoge dwae<br /> nae mameul gajyeoga beorin neo<br /> Oh, you, only you<br /> nal bulleojwo, oh, honey, you<br /> sigani ga nae mami tteonagagi jeone<br /> Oh, woah-oh</p> <p>Baby, just call you a darling<br /> Let me call you a darling<br /> sangcheobadeun neoui binjaril chaeuge haejwo<br /> Call you a darling<br /> Can I call you a darling?<br /> dareun sarameun sileo<br /> neo anim an dwae just you</p> <p>Just you</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "4 ONLY",
+      "title": "ONLY",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=10ry8bW2WSwdckWhL8_4Ha4MEv00ehu7V",
+      "lyrics": "<p>Be my only one<br /> ireoke bureugo sipeun ireum nae gyeote<br /> soneul japgoseo gachi georeoyo</p> <p>biga oneun bamedo oerowotdeon najedo<br /> geudae hwanhan bitkkareul naege gadeuk chilhaejwoyo<br /> naega deo jalhalgeyo<br /> ireoke gachi isseojundamyeon</p> <p>Now I believe<br /> rarallarallara bureuneun norae<br /> chatgo chatgo chaja hemaeideon geudaewa<br /> My, oh my, oh my, oh nae sarang<br /> Be my only love<br /> georeo georeoganeun balgeoreummada<br /> gibun joa kkok duriseo chuneun chum gata<br /> My, oh my, oh my, oh nae sarang<br /> Be my only love</p> <p>Be my only one<br /> ijeneun sumgiji an-godo malhal su isseo<br /> geureokena malhago sipdeon I say I love you</p> <p>swigo sipeun bamedo bappeudeon achimedo<br /> geudae naege swil goseul ma-eumsoge maryeonhaeyo<br /> naega deo jalhalgeyo geu mameul<br /> naege nanwojundamyeon</p> <p>Now I believe<br /> rarallarallara bureuneun norae<br /> chatgo chatgo chaja hemaeideon geudaewa<br /> My, oh my, oh nae sarang<br /> Be my only love</p> <p>My only one geudaereul bomyeon<br /> gidaego sipeo gajigo sipeo<br /> i sarang-iramyeon eoseolpeun kkumdo<br /> irwojil geot gateunde<br /> Now I believe</p> <p>georeogeoreo ganeun balgeoreummada<br /> gibun joa kkok duriseo chuneun chum gata<br /> My, oh my, oh my, oh nae sarang<br /> Be my only love</p> <p>Rarallarallara<br /> Rarallarallara<br /> rarallarallara</p> <p>My only one</p>"
+	},
+	
+	
+	
+	
+	
+	{
+      "id": 11,
+      "name_category": "First Love",
+      "title": "Turn It Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1WyNEofWDw0A7f3EUGbHOP5Y_ToD1IZbI",
+      "lyrics": "<p>Neomeojil ttaemada deo keuge useumyeo ireona.<br /> Neomeojideon geuttaeboda nopi cuz my name is &ldquo;hi&rdquo;!<br /> Eumagi inneun gose naega isseo. Music is my life.<br /> Nan gipeun eodum sogedo barkge bitna i&rsquo;m a star!</p> <p>Keulleobeseo, georieseo, hedeupon sogeseo<br /> Nae moksoriga deullineun i sungankkaji<br /> Eolmana manheun nunmulgwa ttam heullyeonneunji<br /> Gieokhae. Itji motae.<br /> And now it&rsquo;s time to shine!</p> <p>Turn it up!<br /> Soneul wiro, raise em hi!<br /> Du nuneul gamgo<br /> Eumakgwa hanaga doen<br /> Ja, i sungane say my name.</p> <p>Turn it up!<br /> Bollyumeul wiro, raise it hi!<br /> Naega neukkyeojimyeon say my name.</p> <p>Hi.</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "First Love",
+      "title": "Special",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1U7wMSgnqX9kp2F2d5exP8LMDXKD84BA_",
+      "lyrics": "<p>Heartbeat beat beat ooh ooh ooh ooh<br /> Heartbeat beat be-be-e-e-eat ooh ooh ooh ooh<br /> Heartbeat beat beat ooh ooh ooh ooh<br /> Heartbeat beat beat ooh ooh ooh ooh</p> <p>Saranghan geon matneunji<br /> Geujeo gin jeonjaengeul han geon aninji<br /> Eongkin gieoge utdaga<br /> Unda</p> <p>Geu nuguwaui johatdeon<br /> Gieok boda<br /> Neowa hamkke himdeureotdeon<br /> Sigani deo geuriwo<br /> Wonhaeseo alhgo isseo</p> <p>Sarangeun apahaetdeon<br /> Mankeum sarangin geosiramyeon<br /> Neon naege dasin eopseul sarang</p> <p>Ireohge haeseorado<br /> Sangcheoga doe eoseorado<br /> Nae ane jari jaba jwoseo gomawo</p> <p>You are, you are, you a-are<br /> You are, you are, you a-are<br /> So special to me<br /> You are, you are, you a-are<br /> You are, you are, you a-are<br /> So special to me</p> <p>Ige ibyeorin gabwa<br /> We died<br /> Ige miryeoningabwa<br /> Saranggwa jipchakboda<br /> Dokhan byeongingabwa<br /> Meongcheoreom beonjidaga kkaekkeusi<br /> Sarajil geosman gatdeon neon<br /> Yeongwonhi nawa hamkke jaragal<br /> Gipeun hyungteoingabwa<br /> Nae nunmul soge nega sumeul<br /> Swindamyeon mareuji anhge<br /> Ajikdo nae sangcheo soge nega<br /> Kkumteulgeorindamyeon amulji anhge<br /> Halkke<br /> Apado neomyeon dwae<br /> Seulpeun gieogirado naekkeomyeon dwae</p> <p>Haengbogi anideorado<br /> Bulhaengideorado<br /> Nega naege jun georamyeon<br /> Seonmuriltenikka gomawo<br /> Jukdolok miwodo gomawo</p> <p>Tto saranghago sangcheo badado<br /> Duryeopjianha<br /> Neomankeum nal apeuge hal<br /> Sun eopseunikka<br /> No, no, no</p> <p>Ooh sojunghan<br /> Neo, neo, neo</p> <p>Sarangeun himdeureossdeon<br /> Mankeum sarangin geosiramyeon<br /> Neon naege dasin eopseul sarang</p> <p>Ireohge haeseorado<br /> Huhoega doeeoseorado<br /> Nae ane nama isseojwoseo gomawo</p> <p>You are, you are, you a-are<br /> You are, you are, you a-are<br /> So special to me<br /> (First you made my heart beat<br /> Then you beat my heart)</p> <p>You are, you are, you a-are<br /> You are, you are, you a-are<br /> So special to me<br /> (Then you beat my heart)</p> <p>Heartbeat beat beat ooh ooh ooh ooh<br /> Heartbeat beat be-be-e-e-eat ooh ooh ooh ooh<br /> Heartbeat beat beat ooh ooh ooh ooh<br /> Heartbeat beat beat ooh ooh ooh ooh</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "First Love",
+      "title": "It's Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1I0UsB2r19PPm64CiY4qlCPW4ExzvJ9vx",
+      "lyrics": "<p>Haneure bichnaneun jeo manh-eun byeol<br /> Ije ulin ibyeol-ingayo</p> <p>Swibge boji mayo nal geuleohge<br /> Nege mam-eul jun ge keun silsuyeossnayo<br /> Heunhideul deul-eogal ttaewa naol ttae<br /> Daleudaneun uimiga balo igeongayo<br /> Geudaeege jim-i dwaessnayo<br /> Chalali naelyeo noh-ayo</p> <p>Ni sseuldeeobsneun gojib<br /> Ibman beollimyeon geojis<br /> Eonjena ni mamdaelo da meosdaelo<br /> Myeochiljjae oeloi<br /> Teongbin gil-eul geodji<br /> Nan idaelo<br /> Ni gyeot-eul tteonagallae</p> <p>Huhoehalgeoya neon ttang-eul chil geoya<br /> God alge doel geoya neoui jalmos-eul<br /> I never wanna ever see you again</p> <p>Deulli deulli iiini nae mogsoli<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye<br /> Deulli deulli iiini i hanmadi<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye<br /> Ap-eulo du beon dasi<br /> Du nun galigo ul il eobsgessji</p> <p>I said, I said, I said oh oh oh</p> <p>Siheom-i kkeutnan<br /> Deus holgabunhae<br /> Ijewa dol-aboni<br /> Nan jeongmal bulhaenghaessne<br /> Puleun haneul alae onjong-il galyeojin<br /> Neoui geuneul-eul<br /> Beos-eona nal chaj-agallae<br /> Geudaeege jim-i dwaessnayo<br /> Chalali naelyeo noh-ayo</p> <p>Ni sseuldeeobsneun gojib<br /> Ibman beollimyeon geojis<br /> Eonjena ni mamdaelo da meosdaelo<br /> Myeochiljjae oeloi<br /> Teongbin gil-eul geodji<br /> Jeoldaelo nan neoege<br /> Dasi dol-agaji anh-a</p> <p>Huhoehalgeoya neon ttang-eul chil geoya<br /> God alge doel geoya neoui jalmos-eul<br /> I never wanna ever see you again</p> <p>Deulli deulli iiini nae mogsoli<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye<br /> Deulli deulli iiini i hanmadi<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye<br /> Ap-eulo du beon dasi<br /> Du nun galigo ul il eobsgessji</p> <p>I said, I said, I said over</p> <p>Salang-i sig-eossdamyeon nam<br /> Jugi akkabdago<br /> Jabji mal-ayo*2</p> <p>Deulli deulli iiini nae mogsoli<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye<br /> Deulli deulli iiini i hanmadi<br /> It&rsquo;s over, It&rsquo;s over so baby good-bye</p> <p>Haneul-e bichnaneun<br /> Jeo manh-eun byeol<br /> Ije ulin ibyeol-ingayo</p>"
+	},
+	{
+      "id": 14,
+      "name_category": "First Love",
+      "title": "One-Sided Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1zcxORrUc7abuPqnHY0S1zipq8toE817s",
+      "lyrics": "<p>Na neol johahae kkwae oraedwaesseo<br /> Harujongil ni saenggageul hae<br /> Gireul geotdaga eumageul deutdaga<br /> Gapjagi neon nae nun ape natana</p> <p>Nae maeumi mandeun dan hanaui yeonghwa<br /> Ojik neomani chullyeonhaneun teukbyeolhan<br /> Jakpumui jemogeun jjaksarang<br /> Geurigo nan dan hanaui gwangaek</p> <p>Modu nal wirohae giunnae<br /> Geureon mal jiruhae nan seulpeun ge anijanha<br /> Geuga yeongwonhi</p> <p>Nae mam mollado dwae geujeo nune boineun gose<br /> Neul geuraetdeut maeryeokjeogin nunbit momjit malturo<br /> Jonjaehamyeon dwae nan geugeomyeon dwae</p> <p>Gadeuk chan gibun niga molgo on<br /> Ganjilgeorineun barameseon<br /> Joheun naemsaega na idaero joha<br /> Nae misoreul geuryeonaeneun saram</p> <p>Modu nal eungwonhae yongginae<br /> Ijen dagagal charyeramyeo nal tteomine<br /> Geureon gominbodan jigeumeul jeulgigo sipeunde<br /> Sumgyeodun gobaegeul tago nan jeo haneul wiro woo</p> <p>Nae mam mollado dwae nae nun ape<br /> (Geujeo nune boineun gose neul geuraetdeut maeryeokjeogin)<br /> Nunbit momjit malturo<br /> Jonjaehamyeon dwae nan chungbunhae</p> <p>Geujeo nune boineun gose<br /> Neul geuraetdeut maeryeokjeogin nunbit momjit malturo<br /> Jonjaehamyeon dwae nan geugeomyeon dwae</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "First Love",
+      "title": "Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_y0_9XLnlYMSYRkDns9Sk3Y6Roh1eVzx",
+      "lyrics": "<p>Geojitmalcheoreom dalkomhageman<br /> Na kkumgyeol sogeuro neowa geonildeon</p> <p>Honja nameun georeumeun dasi<br /> Gireul irko hemaedo<br /> I want you~</p> <p>I neurin maeume chorahageman<br /> Na namgyeojin yaksok beoriji motae</p> <p>Honja nameun georeumeun tto<br /> Gireul irko hemaedo</p> <p>I just wait for<br /> You just back to<br /> Naege dasi geojitmal gateun<br /> Sigan soge na muldeul su itge</p> <p>I just pray for<br /> You just turn me on<br /> O dasi eobseul geot gateun<br /> Neoui pume na jamdeul su itge</p> <p>Dream</p> <p>Geochin baramdo chan badaedo<br /> Yeongwonhal georago mideotdeon gieok</p> <p>Heuryeojyeoman ganeun neo<br /> Moksoril irheun chueokdeul</p> <p>I just wait for<br /> You just back to<br /> Naege dasi geojitmal gateun<br /> Sigan soge na muldeul su itge</p> <p>I just pray for<br /> You just turn me on<br /> O dasi eobseul geot gateun<br /> Neoui pume na jamdeul su itge</p> <p>Balgaoneun bicheul meomchwojundamyeon umm<br /> Neo naui gyeote meomul su itge<br /> Muneojin nareul dallaereo<br /> Maeil bam chajaondamyeon<br /> &ldquo;Geurae naeil bwa&rdquo; rago useumyeonseo<br /> Gikkeoi harureul gyeondiltende</p> <p>I know<br /> This is just a dream<br /> Naege dasi doraondadeon<br /> Mareun meollido gabeoryeonneunde</p> <p>But i just pray for<br /> You just turn me on<br /> Namainneun naui naldeureun<br /> Neoreul jiwonaeji motaneungeol</p> <p>Dream</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "First Love",
+      "title": "Rose",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1r5C0i7dadXWNHRH0x9tLQMe2Dw71Bp0W",
+      "lyrics": "<p>nae sarang-eun saeppalgan rose<br /> jigeumeun areumdapgetjiman<br /> nalkaroun gasiro neol apeuge halgeol</p> <p>nae sarang-eun saeppalgan rose<br /> geurae nan hyanggiropgetjiman<br /> gakkai halsurok neol dachige halgeol</p> <p>geureon gabyeoun nunbicheuro nal chyeodaboji marajwoyo<br /> hamburo sarang-eul swipge yaegihajima<br /> nae mameul gatgo sipdamyeon nae apeumdo gajyeoya haeyo<br /> eonjen-ga bandeusi gasie jjillil tenikka</p> <p>nal saranghajima<br /> neon nal ajik jal molla<br /> I said run away, just run away<br /> I said, ooh ooh ooh</p> <p>nal saranghajima<br /> neon nal ajik jal molla<br /> I said run away, just run away<br /> dagaojima</p> <p>nae sarang-eun saeppalgan rose<br /> jigeumeun areumdapgetjiman<br /> nalkaroun gasiro neol apeuge halgeol</p> <p>nae sarang-eun saeppalgan rose<br /> geurae nan hyanggiropgetjiman<br /> gakkai halsurok neol dachige halgeol</p> <p>jasin-game chan ni moseubi<br /> nae nunen geujeo ansseureowo<br /> nal hyanghan ssikssikan balgeoreumi<br /> oneulttara chorahae boyeo<br /> gamjeong, sachiya naegen<br /> sarang, jipchagui best friend<br /> So run away, just run away<br /> &#39;Cause you and I must come to an end</p> <p>Every rose has its thorn<br /> Every rose has its thorn<br /> Every rose has its thorn</p> <p>nal neomu mitjima<br /> neon nal ajik jal molla<br /> So just run away, run away<br /> I said ooh ooh ooh</p> <p>nal saranghajima<br /> neon nal ajik jal molla<br /> I said run away, just run away<br /> dagaojima</p> <p>nae sarang-eun saeppalgan rose<br /> jigeumeun areumdapgetjiman<br /> nalkaroun gasiro neol apeuge halgeol</p> <p>nae sarang-eun saeppalgan rose<br /> geurae nan hyanggiropgetjiman<br /> gakkai halsurok neol dachige halgeol</p> <p>(Don&#39;t wanna hurt you)</p>"
+	},{
+      "id": 17,
+      "name_category": "First Love",
+      "title": "Fool For Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1N568fNcQymHVN4V_8y0gYESrzo95ctqb",
+      "lyrics": "<p>Algeon da almyeonseo<br /> Salanghal ttaeman cham babo gat-eun nan<br /> Amugeosdo mollado salang hanamankeum-eun<br /> Namdeulcheoleom jalhago sip-eunde<br /> Geuge andwaeyo.<br /> Eotteoghajyo?</p> <p>Badgiman hago tteonan<br /> Geudael baewoya hanayo?<br /> Wae salangdabji anh-eun<br /> Salang-eul galeuchyeoyo?<br /> Na gat-eun baboneun eodi eobsnayo?<br /> Nacheoleom da jugo da ilhgodo us-eojul<br /> Babo, babo, baboneun eobsnayo?</p> <p>Algo issdago.<br /> Dasin ileon salang anhandago.<br /> Salamdeul-i haejuneun malman ttalahajyo.<br /> Sasil-eun jal moleumyeonseo.<br /> Geudael dalmji moshaeseo mianhaeyo.<br /> Nega baboin geolago moduga malhaedo,<br /> Nan salangdabji anh-eun<br /> Salang-eun hagi silh-eoyo.<br /> Da jugiman hago ijhyeojineun geos-i dulyeowodo<br /> Nae ma-eum-i geudael<br /> Baeulkkabwa deo dulyeowoyo.<br /> Na gat-eun baboneun eodi eobsnayo?<br /> Nacheoleom da ilhgodo nae gyeot-eul jikyeojul<br /> Babo, babo, baboneun eobsnayo?</p> <p>I&rsquo;m a fool.<br /> I&rsquo;m such a fool for love.<br /> Eonjenganeun nal dalm-eun,<br /> Na gat-eun salam-eul<br /> Chajge doel geolago mid-eoyo.</p> <p>Nawa gat-eun baboga eodi issgessjyo.<br /> Geu salamdo nal gidaligoman issgessjyo<br /> Babo, babo, babocheoleom.</p> <p>I&rsquo;m a fool, i know.<br /> Ilaeseo mianhae.<br /> I&rsquo;m a fool for love.</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "First Love",
+      "title": "Because",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1thAD2U1bvr8IwXkaYeYpYn9AYXkB0fb-",
+      "lyrics": "<p>Ige wae na ttaemun-iya da neo ttaemun-iji<br /> Eotteohge nal wihan geoya neol wihan geogessji<br /> Dulleodaeji mallan mal-iya kkeutkkaji neo dabne</p> <p>Jeongmal nal wihaeseolamyeon na ttaemun-imyeon<br /> Jakkuman jeonhwahajima na an bad-eul geoya<br /> Bulhaenghagil balae I`m sorry that`s a lie a boy</p> <p>Nal ij-eodo dwae da ij-eodo dwae<br /> Ije haengboghaedo dwae<br /> Daman dan han gaji al-adugo ga<br /> Nan neo ttaem-e sal-ass-eo</p> <p>Dodaeche mwol wonhaneun geoya<br /> Deo museun mal-eul hae<br /> Eotteohge kkeutnajil<br /> Anh-a eojjeolaneun geonde<br /> Mol-abut-iji mallan mal-iya<br /> Na uneun geon silhdago haessjanh-a</p> <p>Eochapi kkeutnael geolamyeon (ani)<br /> Kkeutnan geolamyeon (ijeneun)<br /> Hwa jom naejima na an deul-eul geoya<br /> Bulhaenghagil balae<br /> I`m sorry that`s a lie a boy</p> <p>Nal ij-eodo dwae da ij-eodo<br /> Dwae ije haengboghaedo dwae<br /> Daman dan han gaji ohaen pulgo ga<br /> Nan neo bakk-e mollass-eo</p> <p>Nal ij-eodo dwae da ij-eodo<br /> Dwae ijen haengboghaedo dwae<br /> Daman dan han gaji al-adugo ga<br /> Nan neo ttaem-e sal-ass-eo</p> <p>Because of you Because of you<br /> Usgo ulgo bulgwa gatdeon naldeul</p> <p>Da ij-eodo dwae ije haengboghaedo dwae<br /> Ulin neomu ssawoss-eo<br /> Deoneun ileol su eobs-eo</p> <p>Nal ij-eodo dwae da ij-eodo<br /> Dwae ijen haengboghaedo dwae<br /> Daman dan han gaji al-adugo ga<br /> Nan neo ttaem-e sal-ass-eo</p> <p>(Ige wae na ttaemun-iya da,)</p>"
+	},
+	{
+      "id": 19,
+      "name_category": "First Love",
+      "title": "Am I Strange",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb0a530fc901e88d1c7a9f4d",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1SDUrBS4nFNOxGdpCNfea0dTf3cB_o7Ki",
+      "lyrics": "<p>Songalag yeol gae balgalag yeol gae<br /> Du pal du dali piga heuleune<br /> Du nun-eun kkamppag du gwineun jjong-geus<br /> Nan yeollyeo iss-eo</p> <p>Meolineun hana simjangdo hana<br /> Saeng-gag-eul hago gong-gileul masigo<br /> Neolang ttoggat-i</p> <p>Naega isanghae eodiga eotteohge<br /> Naega isanghae wae geuleon nun-eulo nal bwa<br /> Naega isanghae eodiga eotteohge<br /> Neoui geu siseon-e nan mansinchang-i</p> <p>Gippeumyeon usgo seulpeumyeon ulgo<br /> Jjileumyeon apeugo gyesoghamyeon hwanaego<br /> Jeolmang-eul hago huimang-eul pumgo<br /> Neolang ttoggat-i</p> <p>Hajiman naman gajin myeoch gaji geosdeul<br /> Neowan daleun myeoch gaji geosdeul<br /> Naega nain iyu myeoch gaji</p> <p>Naega isanghae eodiga eotteohge<br /> Naega isanghae wae geuleon nun-eulo<br /> Wae geuleon nun-eulo<br /> Wae-</p> <p>Naega isanghae eodiga eotteohge<br /> Neoui geu siseon-e nan mansinchang-i<br /> (Eojjeolago sasil-ingeol)</p>"
+	},
+	
+	
+	
+	
+	
+	
+	{
+      "id": 20,
+      "name_category": "24 °C",
+      "title": "NO ONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1z_j6d6_ZQQl9HTa6oobut5B5T9XrGruG",
+      "lyrics": "<p>Nugu eopsso<br /> Nareul butjabajul nimeun eopsso?<br /> Nuneul sshitgo chajabwado boijiga anneunde<br /> Eodi isso<br /> Nareul deryeoga jul nimeun eopsso?<br /> Nan deo isang mot chamgesso<br /> Naege dagawa juo<br /> <br /> Ttokgateun geori gateun dalbit sogeseo<br /> Ttokgateun jari gateun jame deulgetji<br /> Ijeneun nugungal deohago shipeo<br /> Jiteun oeroum geodugo shipeo<br /> I don&#39;t wanna be alone anymore<br /> <br /> Ttokttok nugu eopsso<br /> Ttokttok nan yeogi isso, ttokttok geogi<br /> Nugu eopsso<br /> Ttokttok neon eodi isso<br /> Daedaphaejuo<br /> Nugu eopsso<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> Daeche nimeun eodie<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t care about shit<br /> <br /> Geogi nugu eopsso<br /> I jen eomneun geuriumeul eojjeonyaneun mario<br /> Honjain bameun yeojeoni jamdeulgiga ashwiweo<br /> Meomun jeokdo eomneun naye nimeun daeche<br /> Eodil geurido geuphage gashio<br /> <br /> Nugu eopsso<br /> Daedani byeol bol il eomneun<br /> Naye haruharueneun piryohae byeoril<br /> Eojireoun doshiwa oeroun i hyeonshil sogeseo<br /> Nareul derigo domangga juo meolli<br /> Nugu eopsso<br /> <br /> Ttokgateun geori gateun dalbit sogeseo<br /> Ttokgateun jari gateun jame deulgetji<br /> Ijeneun nugungal deohago shipeo<br /> Jiteun oeroum geodugo shipeo<br /> I don&#39;t wanna be alone anymore<br /> <br /> Ttokttok nugu eopsso<br /> Ttokttok nan yeogi isso, ttokttok geogi<br /> Nugu eopsso<br /> Ttokttok neon eodi isso<br /> Daedaphaejuo<br /> Nugu eopsso<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> Daeche nimeun eodie<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t care about shit<br /> <br /> Yunani gin bame heoril beeonaego<br /> Tto ibul arae goi mosyeonoeuri<br /> Gidarigo gidarideon<br /> Geudaega oshin nal bame<br /> Kkeonae deuriorida<br /> <br /> Ttokttok nugu eopsso<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> Daeche nimeun eodie<br /> Ttokttok, yeobwara<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t care about shit<br /> Ttokttok, yeobwara<br /> Nugu eopsso<br /> <br /> Yeoboseyo geogi nugu<br /> Yeoboseyo geogi nugu<br /> <br /> I don&#39;t know<br /> I don&#39;t know<br /> I don&#39;t know<br /> Nugu eopsso<br /> <br /> Yeoboseyo geogi nugu<br /> Ttokttok nugu<br /> Yeoboseyo geogi nugu<br /> Ttokttok nugu eopsso<br /> <br /> Nal michige hal<br /> Sum shwige hal<br /> Deultteuge hal<br /> Ttokttok nugu eopsso<br /> &nbsp;</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "24 °C",
+      "title": "NO WAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1FQmtFqXln3eG82m3yvv751GHKdnpcSiT",
+      "lyrics": "<p>Balkkeutkkaji daheun eodumi<br /> Iksukhaejil ttaemyeon<br /> Bulkge muldeun nae mameun<br /> Tto neoreul geuryeonaego<br /> <br /> Neoui gyeote daheun<br /> Modeun ge eojireowojyeo<br /> Byeori ssodajideon bam<br /> Your love makes me wonder<br /> <br /> Boy I&#39;ve been dreamin bout ya<br /> Onjongil Thinkin bout ya<br /> Nun tteumyeon eogimeopsi seumyeodeuneun<br /> Neoui moksorie<br /> How should I say my love<br /> <br /> Gidaryeodo Without ya<br /> Siganeun jakku meomchwo<br /> Kkumsogeseo neoneun<br /> Deo seonmyeonghaejineun geol<br /> Baby I&#39;ll be right here<br /> <br /> I just wanna dance<br /> With you forever<br /> Meoreojiji ma deo Never<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Negeman neukkil su issneun<br /> Sweetest fantasy<br /> Eotteon nugudo No baby<br /> There&#39;s no way<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Eojesbamui kkumcheoreom<br /> Nan So emotional<br /> Achimi balkawado<br /> Meomulleo issneun ne ireum<br /> <br /> Amureohjido anhge neon<br /> Runnin&#39; through my mind<br /> Deoneun meomchuji ma Baby<br /> Maeil neoreul wonhae<br /> <br /> I just wanna dance<br /> With you forever<br /> Meoreojiji ma deo Never<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Negeman neukkil su issneun<br /> Sweetest fantasy<br /> Eotteon nugudo No baby<br /> There&#39;s no way<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Geojismalcheoreom You got me<br /> Neoreul mollassdeon sigani<br /> Ijen Nothin&#39; without you<br /> Nege ip majchugo Oh no<br /> <br /> Nae mamsogen ajikdo<br /> Boyeojul ge manheun geol<br /> Ireohge neoreul aneumyeon<br /> &#39;Till the night is gone<br /> Deo isangeun duryeopji anha<br /> <br /> I just wanna dance<br /> With you forever<br /> Meoreojiji ma deo Never<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Negeman neukkil su issneun<br /> Sweetest fantasy<br /> Eotteon nugudo No baby<br /> There&#39;s no way<br /> There&#39;s no way<br /> There&#39;s no way<br /> <br /> Meoreojiji ma deo Never</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "24 °C",
+      "title": "LOVE IS OVER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1OsSlhKR2nUTbu83geuH5zYx149C_Kpf_",
+      "lyrics": "<p>Amuri eolgureul hwajangeuro garyeodo<br /> Nae gibuni garyeojiji anha<br /> Nega johahaessdeon<br /> Gin meorineun swipge jallado<br /> Maeumeul jeopneun geon cham eoryeowo<br /> <br /> Saramdeureun mareul hae<br /> Siganmani dabirae<br /> Geu malman myeot nyeonjjaego<br /> Nan yeojeonhi ttokgata<br /> Nae jeonhwa gipeun gose<br /> Usgo issneun neol bomyeo<br /> Jamdeulgon hae<br /> <br /> LOVE IS OVER<br /> Geuchil geot gatdeon nunmuri meomchuji anha<br /> Eojecheoreom oneuldo<br /> LOVE IS OVER<br /> Neol oraejeon bonaenohgo<br /> Ajik neowa heeojineun jung<br /> <br /> Johassdeon gieokdeuri neomuna manhaseo<br /> Beoryeobwado nae mamman mugeopgo<br /> Sseuldeeopsi osjang sogeul gadeuk chaewodo<br /> Heojeonhan gaseumeun teong bin deushae<br /> <br /> Dareun namja apeseo<br /> Eokjiro useobwado<br /> Neoman deo saenggaknago<br /> Neowa hamkke arassdeon<br /> Chingun da pihaebwado<br /> Gakkeum ne sosigi deulligon hae<br /> <br /> LOVE IS OVER<br /> Geuchil geot gatdeon nunmuri meomchuji anha<br /> Eojecheoreom oneuldo<br /> LOVE IS OVER<br /> Neol oraejeon bonaenohgo<br /> Ajik neowa heeojineun jung<br /> <br /> Naega babo gateul geoya<br /> Imi nal da ijeun ne nunen<br /> Swipge ttan sarang sijakhaessgessji<br /> <br /> Ttan yeoja meoril sseudadeumgessji<br /> Yeojikkeot neoreul jeongri moshan nareul moreun chae<br /> <br /> Doraseomyeon<br /> Jeo meolli nal bangimyeo son heundeul geot gata<br /> Nae ireumeul bureumyeo<br /> Heeojyeossdeon neol oraejeon bonaenohgo<br /> Ajik neowa saranghaneun jung<br /> <br /> La la la la la<br /> La la la la la la<br /> Ajik neowa heeojineun jung<br /> <br /> La la la la la<br /> La la la la la la<br /> Ajik neowa heeojineun jung</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "24 °C",
+      "title": "1, 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=16Zu_TYONY65n0uWt73rLPDS8wQOM3GPE",
+      "lyrics": "<p>Pigonhadamyeo ajik jandadeon<br /> Malgwa dalli neoneun tto bameul<br /> Hejipgo danyeo<br /> <br /> Neon naega jinjjaro<br /> Baboin jul ana bwa<br /> Ibeonen geunyang an neomeoga<br /> Maebeon ttokgateun pinggyeppun<br /> Geojit nunmuldo jillyeosseo<br /> <br /> Saranghandan malboda<br /> Mianhadan mareul<br /> Deo manhi deureun geot gata<br /> Geumanhaja<br /> Neon jangmi eopsneun gasi gata<br /> <br /> Nungamajuneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Moreun cheokhaneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Ipman yeolmyeon geojismal<br /> Geollijil maldeonga<br /> Jeongdokkeot jom haera<br /> Jeokdanghireul molla<br /> <br /> Sangcheo juneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Oh baby<br /> Jebal ohae marajwo<br /> Soksanghaessji uri jagi hwa pureo<br /> Naega baek beoneun jalmoshaesseo Yeah<br /> Don&#39;t worry eoje I was home<br /> Jeokjeokhan nalssi<br /> Teopteophan gibune<br /> Bopuri pungseonghan ibureul<br /> Dwijibeosseun Feeling<br /> Jalhalge Swerving<br /> Majimak gihoel jwo mianhae Girl<br /> Nan neol dugo tteonal saenggak eopseo<br /> My love nuwo<br /> Nae yeopeseo bulleojwo Lullaby<br /> Eodil ga wae tto ppurina isseo<br /> Na tto michyeo<br /> Saranghandan malboda<br /> Mianhadan mareul<br /> Deo manhi deureun geot gata<br /> Geumanhaja<br /> Neon jangmi eopsneun gasi gata<br /> <br /> Nungamajuneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Moreun cheokhaneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Ipman yeolmyeon geojismal<br /> Geollijil maldeonga<br /> Jeongdokkeot jom haera<br /> Jeokdanghireul molla<br /> <br /> Sangcheo juneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Nega nahante<br /> Mul meogil ttaemada<br /> Jjokpallyeo jugeul geot gata<br /> Geunyang mareul malja<br /> Nae ipman apeuda<br /> Neoreul mannaseo dan harudo<br /> Maeumi pyeonhan jeok eopsgo<br /> Geunyang yeot gatasseo<br /> <br /> Nungamajuneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Moreun cheokhaneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji<br /> <br /> Ipman yeolmyeon geojismal<br /> Geollijil maldeonga<br /> Jeongdokkeot jom haera<br /> Jeokdanghireul molla<br /> <br /> Sangcheo juneun geosdo<br /> Handu beon<br /> Handu beon<br /> Handu beonieoyaji</p>"
+	},
+	{
+      "id": 24,
+      "name_category": "24 °C",
+      "title": "20MIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=19R_qjd21-hvw4gZE2a4QwJiix8kjjbzU",
+      "lyrics": "<p>Neon cheoeumbuteo kkeutkkaji an byeonhae<br /> Hansimhan pyojeongdo ttokgateun byeonmyeongdo<br /> <br /> Hanabuteo yeolkkaji byeonhan ge eopsne<br /> Sigan nangbihan gibun<br /> You think you&#39;re good<br /> But you&#39;re not<br /> <br /> Useojundago neoege ppajin geon anya<br /> Chakgak sogeseo neon neul jalnan jul algessji<br /> Jeonbu dollyeo malhae ihaega jal andwaessni<br /> Neon geogiseo geogi<br /> Eo byeollo jaemieopseo<br /> <br /> 20bun jeonbuteo tto 20bun<br /> Neon geujeo geureon nongdamman tto banbokhae<br /> 20il jeonbuteo ttak 20il<br /> Imi kkeutnasseo neol nohasseo<br /> Don&#39;t think of you<br /> <br /> Neon heeojin geunyeodeul yaegireul johahae<br /> Geunyeodeurui mam cham ttakhagido hae<br /> Nan sangsangdo silheo<br /> Neo gateun aedeul cham ppeonppeonhae<br /> Ttak ilbundo gyeondigi jillige hanikka<br /> <br /> Ulleonggeorimeun eonjejjeum meomchulkka sipeo<br /> Geurae aju jogeumeun<br /> Neoege joechaekgam deureo<br /> Nugu honjamanui jalmoseun anigessjiman<br /> Nae jalmoseun ttakhi tteooreuji anha<br /> <br /> 20bun jeonbuteo tto 20bun<br /> Neon geujeo geureon nongdamman tto banbokhae<br /> 20il jeonbuteo ttak 20il<br /> Imi kkeutnasseo neol nohasseo<br /> Don&#39;t think of you<br /> <br /> Geujjeumeseo hae yeogiseo geuman Stop<br /> Neo eopsido na cheoeumbuteo da<br /> Neo hanamaneul mitgo<br /> Du nun gamneun geosdo jichyeo<br /> I&#39;m not Okay geumandullae<br /> <br /> 20bun jeonbuteo tto 20bun<br /> 20il jeonbuteo ttak 20il<br /> Imi kkeutnasseo neol nohasseo<br /> Don&#39;t think of you</p>"
+	},
+	
+	
+	
+	
+	
+	{
+      "id": 25,
+      "name_category": "SEOULITE",
+      "title": "WORLD TOUR",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1XM8bBUggZcd9YTthI3Y3rr2lqvyibAJd",
+      "lyrics": "<p>Dangbunganman eumsogeoreul nureugo pa<br /> Ireotajeoreota mwo eojjeoraneun geonde<br /> Deoneun mutji ma (nope)<br /> Imi poneun dwijibeonwasseo<br /> Aswipjiman modu daeume bwa<br /> Bami naji doel ttaekkaji?<br /> Rideum soge nae momeul sumgigo<br /> New York, Paris<br /> Jigu myeot bakwireul dolgoseo<br /> Saeroun sarange ppajiljido oh<br /> <br /> Gingaminga gominhaji ma<br /> Gin jaro jaendago dabi naona<br /> Hanbamui kkumcheoreom kkaebeorindaedo<br /> Goodnight Goodnight<br /> I&#39;m havin&#39; a good time (right?)<br /> <br /> I&#39;m gone gone<br /> I&#39;m gone gone<br /> <br /> Nune igeun saramdeulgwa hwangyeong<br /> Dasi majuchigi sirheun agyeon<br /> Jigyeowojil ttaejjeum bihaenggireul tago<br /> I ttanggwa jeil meon goseuro<br /> I&#39;ll go nareul chatji ma<br /> Haendeuponeun an teojinikka<br /> Nuguboda nopi oreugo sipda<br /> Raneun mari igeon anieotjiman I&#39;m gone<br /> <br /> Maenyueori itdamyeon<br /> Jigeumbodan gwaenchanheulkka<br /> Geukkat sarangdo, saramdo<br /> Dabeun anin geot gateunde<br /> Geugan beon don mongttang sseugo<br /> Dasi irui noyega doeljido<br /> Moreujiman geunyang naebeoryeo dwo<br /> <br /> Bami naji doel ttaekkaji<br /> Mwoga geuri keuge byeonhandago<br /> Hanagachi paljjang dandanhi kkin chaero<br /> Simgakhage gudeoinneunji oh<br /> <br /> Haneullo ollagani ppalgan sipjagadeulmajeo<br /> Gyeongjaenghaneun deuthae<br /> Mosundoen mideumui hyangyeon<br /> Mullon naui mideumeun geojisi aninde<br /> Iksukhami museowo tteonago sipne<br /> Eoryeosseul ttae syupeomaencheoreom<br /> Nan mangtoreul maego<br /> Icheungeseo ttwieonne dongsimi jukgi jeone<br /> Geuttaeui nareul chajeureo yeogwoneul deurimine<br /> Naitgapseul gyesanhagin ajik jandonigie<br /> <br /> Gingaminga gominhaji ma<br /> (Don&#39;t think about it too much)<br /> Gin jaro jaendago dabi naona<br /> Hanbamui kkumcheoreom kkaebeorindaedo<br /> Goodnight Goodnight<br /> I&#39;m havin&#39; a good time (right?)<br /> <br /> I&#39;m gone gone<br /> I&#39;m gone gone<br /> <br /> Eonjekkajiljin mollado<br /> Bulsichagilji mollado<br /> I bihaengeul meomchul sun eopseo<br /> <br /> Gingaminga gominhaji ma<br /> (Don&#39;t think about it too much)<br /> Gin jaro jaendago dabi naona<br /> Hanbamui kkumcheoreom kkaebeorindaedo<br /> Goodnight Goodnight<br /> I&#39;m havin&#39; a good time (right?)<br /> <br /> Don&#39;t think about it (Hey)<br /> Don&#39;t think about it (Don&#39;t think about it)<br /> Don&#39;t think about it<br /> Don&#39;t think about it (Don&#39;t think about it)<br /> <br /> Don&#39;t think about it (oh oh)<br /> Don&#39;t think about it (Don&#39;t think about it)<br /> Don&#39;t think about it (Don&#39;t think about it)<br /> Don&#39;t think about it too much<br /> <br /> Don&#39;t think about it too much<br /> Don&#39;t think about it too much<br /> Don&#39;t think about it too much<br /> Don&#39;t think about it too much</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "SEOULITE",
+      "title": "HOLD MY HAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1H8ineMr06LSYDTAD2kp1cx25qdBhdQvs",
+      "lyrics": "<p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again<br /> Naui soneul japdeon geudaeui songiri<br /> Eolmana ttatteuthaenneunji dasi al su itge<br /> <br /> Han beonman deo sonjaba jwoyo<br /> Ongireul neukkige hae jwoyo<br /> Barami bureoseo chagapdan marieyo<br /> <br /> Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again<br /> <br /> Nareul anajudeon geudaeui pumsogi<br /> Eolmana ttatteuthaenneunji dasi algo sipjyo<br /> Majimak geunal bam jakbyeol insahago<br /> Doraseoseo seo inneunde chagaun nunmulman<br /> <br /> Han beonman deo nal anajwoyo<br /> Sarangeul neukkige hae jwoyo<br /> Maeumi bieoseo chagapdan marieyo<br /> <br /> Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again<br /> <br /> I said 1, 2, 3 you<br /> Oneuldo han baljaguk<br /> Dorawa dallago<br /> 1, 2, 3 you<br /> Oneuldo han baljaguk<br /> 4, 5, 6<br /> <br /> Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again<br /> <br /> Geudae eopsin neomu chupdan marieyo<br /> Geudaen cham ttatteuthaesseotdan marieyo<br /> Idaero kkeutnamyeon nan andoendan marieyo<br /> <br /> Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "SEOULITE",
+      "title": "BREATHE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1NOYHx_Q31FKVcGKu7s7R6fHH472kDapB",
+      "lyrics": "<p>Sumeul keuge swieobwayo<br /> Dangsinui gaseum yangjjogi jeorige<br /> Jogeumeun apaol ttaekkaji<br /> Sumeul deo baeteobwayo<br /> Dangsinui ane nameun ge eoptdago<br /> Neukkyeojil ttaekkaji<br /> Sumi beokchaollado gwaenchanhayo<br /> Amudo geudael tathajin anha<br /> Gakkeumeun silsuhaedo dwae<br /> Nugudeun geuraesseunikka<br /> Gwaenchanhdaneun mal<br /> Malppunin wirojiman<br /> <br /> Nugungaui hansum geu mugeoun sumeul<br /> Naega eotteoke hearil suga isseulkkayo<br /> Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br /> Gwaenchanhayo naega anajulgeyo<br /> <br /> Sumi beokchaollado gwaenchanhayo<br /> Amudo geudael tathajin anha<br /> Gakkeumeun silsuhaedo dwae<br /> Nugudeun geuraesseunikka<br /> Gwaenchantaneun mal<br /> Malppunin wirojiman<br /> <br /> Nugungaui hansum geu mugeoun sumeul<br /> Naega eotteoke hearil suga isseulkkayo<br /> Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br /> Gwaenchanhayo naega anajulgeyo<br /> <br /> Namdeul nunen him ppajineun<br /> Hansumeuro boiljin mollado<br /> Naneun algo itjyo<br /> Jageun hansum naebaetgido eoryeoun<br /> Harureul bonaetdan geol<br /> Ije dareun saenggageun mayo<br /> Gipi sumeul swieobwayo<br /> Geudaero naebaeteoyo<br /> <br /> Nugungaui hansum geu mugeoun sumeul<br /> Naega eotteoke hearil suga isseulkkayo<br /> Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br /> Gwaenchanhayo naega anajulgeyo<br /> Jeongmal sugohaesseoyo</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "SEOULITE",
+      "title": "OFFICIAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1kP723q5XWSMaEbvbSrpTIhFTh8RkwOvx",
+      "lyrics": "<p>Ooh baby if only you, only you knew<br /> You make me run to you, run to you baby<br /> Cheomen mangseoryeotjiman jom geomnasseotjiman<br /> Sogeuron oneulbameul gidaryeowasseo<br /> Onjongil geu saenggage gyesok sangsanghage dwae<br /> Bamsae duriseo all the things that we&#39;ll do<br /> <br /> Neoege angil ttae kiseuhal ttae<br /> Ne yeope jamdeul ttae nuneul tteul ttae<br /> My heart, my soul, my body<br /> I sunganbuteo baby 24/7<br /> <br /> I wanna be your girl naega nikkeoran geol<br /> Neukkige haejugo sipeo I wanna be official<br /> Nega wonhandamyeon geuge mueosideun<br /> Neoege da jugo sipeo I wanna be official<br /> <br /> I wanna be yours<br /> Aemaehan geon sirheo got to be official<br /> Don&#39;t know why why we waited so long<br /> Deo isangeun chameul su eomneun geol<br /> <br /> Neoege angil ttae ooh<br /> Neowa kiseu hal ttae I get high<br /> My heart, my soul, my body<br /> I sunganbuteo baby 24/7<br /> <br /> I wanna be your girl naega nikkeoran geol<br /> Neukkige haejugo sipeo I wanna be official<br /> Nega wonhandamyeon geuge mueosideun<br /> Neoege da jugo sipeo I wanna be official<br /> <br /> Nan nuni kkwae nopaseo<br /> Neol ttak bojamaja baro jeonghaesseo<br /> Nae bameun neol wihaeseoman sseo ijeneun<br /> Ppijjeok mareun gyaenen jageugi andwae naegen<br /> Iyuneun nega jal almyeonseo jakku wae irae<br /> Geungeo eomneun jasingami anya bae bae<br /> Gyeokkeobomyeon ihaehage dwae<br /> I told you gieokhae bwa jeonbuteo yaegihaetdeon geol<br /> Yojeum syopinghal ttaen gwansim eoptdeon yeoja otdo boyeo<br /> Neoro gadeuk cha inneun geon<br /> Nae meorissokppunmani anin geol<br /> Mullon jigeumdo da jochiman<br /> Hanbeon teoteurigo sipeo I wanna be official<br /> <br /> Hey saramdeureun nal geokjeonghaneunde<br /> Boy I just can&#39;t get you outta my head<br /> The only one for me is you<br /> Is you, is you baby<br /> <br /> I wanna be your girl naega nikkeoran geol<br /> Neukkige haejugo sipeo I wanna be official<br /> Nega wonhandamyeon geuge mueosideun<br /> Neoege da jugo sipeo I wanna be official</p>"
+	},
+	{
+      "id": 29,
+      "name_category": "SEOULITE",
+      "title": "FXXK WIT US",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321c941a808e99d4ba69ffc01",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1j4QfAdbQsR7LsPNTM9_gOvX0_G1a7T0s",
+      "lyrics": "<p>They say nan dabi eopji<br /> Nal munjero bwaseogetji<br /> I&#39;m just young and free ay ay<br /> They say nan mal an deutji<br /> Mal gateun malbuteo haeyaji<br /> What chu know bout me? huh?<br /> <br /> I&#39;m just young and free<br /> But I be like fuck you just pay me<br /> I&#39;m chasin my dreams<br /> While you lame dudes being lazy<br /> Nal miwohagi jeone neon ne geoulbuteo bwa<br /> Nan nae jaril jikyeowatji hangsang gyeoulbuteo gaeul<br /> Seoulbuteo HI lV I be stunnin<br /> Jipchakhamyeo pagodeulji anha<br /> Eotteon woninideun gane<br /> Naega singyeong sseul geon eoptji<br /> I&#39;m just doin my work nal hyanghan maldeuldo<br /> Eochapi modu eokkae wi dirt let&#39;s get it<br /> <br /> Sesangeun ireoke neowa nal deungjyeotjiman<br /> Everything&#39;s gon be okay<br /> Cuz nothing can fuck with us<br /> Da cham sikkeureopge ibeul nollyeodaejiman<br /> Don&#39;t need to be afraid<br /> Cuz nothing can fuck with us<br /> <br /> They say naega michyeotdae<br /> It&#39;s OK da michyeonneunde<br /> Naneun wae andwae? ay ay<br /> <br /> They say jal bwara jeoldae<br /> Neon andwae nan doego sipeun ge<br /> Na bakke eomneunde<br /> <br /> Never, I don&#39;t wanna be the same lame<br /> Nado nega doel su eopgo<br /> Neodo naega doel su eoptdeut<br /> So just do the damn thang<br /> Eojeneun eoje oneureun oneul naeireun naeil<br /> Haega tteul tenikka miri geokjeong ma ttaeireuge<br /> Nuga gyeoljeonghae nae gachireul<br /> Eodikkajina nae jasin<br /> Naega anin ineun dakchyeo<br /> Naneun ara naui api jamsi heuril ttaedo<br /> Geujeo danji angaeraneun geoseul<br /> Either it&#39;s raining or shining<br /> I&#39;m always on my hustle one hunnit<br /> <br /> Sesangeun ireoke neowa nal deungjyeotjiman<br /> Everything&#39;s gon be okay<br /> Cuz nothing can fuck with us<br /> Da cham sikkeureopge ibeul nollyeodaejiman<br /> Don&#39;t need to be afraid<br /> Cuz nothing can fuck with us<br /> <br /> All I need is you baby fuck the world<br /> As long as you&#39;re my man baby I&#39;m your girl<br /> All I need is you baby fuck the world<br /> As long as you&#39;re my man baby I&#39;m your girl<br /> And nothing can fuck wit us<br /> <br /> Sesangeun ireoke neowa nal deungjyeotjiman<br /> Everything&#39;s gon be okay<br /> Cuz nothing can fuck with us<br /> Da cham sikkeureopge ibeul nollyeodaejiman<br /> Don&#39;t need to be afraid<br /> Cuz nothing can fuck with ut<br /> &nbsp;</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "SEOULITE",
+      "title": "MY STAR",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1b__kFYe7QvHzwVHjeovUdVzxX7LxirCK",
+      "lyrics": "<p>Neon naui STAR<br /> Neon naui SUN<br /> Neon naui MOON<br /> Sesangeul da gajin neukkim<br /> I FEEL I FEEL GOOD<br /> I FEEL GOOD WHEN I&#39;M WITH YOU<br /> Neon naui ROCK<br /> Neon naui GUN<br /> Neon naui ROSE<br /> Gamdangi an dwae i neukkim FEEL ALRIGHT<br /> Ije an oerowo na an oerowo<br /> <br /> Cheossarang gateun<br /> Nae mameun neoreul hyanghan chumeul chugo OH OH OH<br /> Michin geot gateun<br /> Nae nunen han saramman boyeo ojik YOU<br /> <br /> Sijakhan sarangeul meomchujima (DON&#39;T STOP)<br /> Ginagin bameun neowa naegeonikka (YOU&#39;RE MINE)<br /> Jigeum nae du soneul japgo NEVER LET ME GO<br /> TEll ME neodo nawa gateun saranghandago<br /> <br /> Neon naui STAR<br /> Neon naui SUN<br /> Neon naui MOON<br /> Sesangeul da gajin neukkim<br /> I FEEL I FEEL GOOD<br /> I FEEL GOOD WHEN I&#39;M WITH YOU<br /> <br /> Neon naui POISON<br /> Neon naui TROUBlE<br /> Neon naui FATE<br /> Mot chamgesseo OH ne songil<br /> FEEL ALRIGHT<br /> Nega neomu joha na neomu joha<br /> <br /> (LISTEN)<br /> <br /> SOMETHING ABOUT YOU<br /> Meomchwossdeon nae gaseumeul ttwige hago OH OH OH<br /> Michin geot gateun<br /> Nae nunen han saramman boyeo ojik YOU<br /> <br /> Sijakhan sarangeul meomchujima (DON&#39;T STOP)<br /> Ginagin bameun neowa naegeonikka (YOU&#39;RE MINE)<br /> Jigeum nae du soneul japgo NEVER LET ME GO<br /> TELL ME neodo nawa gateun saranghandago<br /> <br /> Eoneusae nan yeongwoneul kkumkkugon hae<br /> BUT NOTHING IS FOREVER I KNOW<br /> Neo eopsneun nal sangsanghal sujocha eopseo<br /> <br /> Neon naui STAR<br /> Neon naui SUN<br /> Neon naui MOON<br /> Sesangeul da gajin neukkim<br /> I FEEL I FEEL GOOD<br /> I FEEL GOOD WHEN I&#39;M WITH YOU<br /> <br /> Neon naui ROCK<br /> Neon naui GUN<br /> Neon naui ROSE<br /> Gamdangi andwae i neukkim FEEL ALRIGHT<br /> Ije an oerowo na an oerowo</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "SEOULITE",
+      "title": "BLUES",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=14GfgdYPLp0qHfm37RQEAXHOq_sl_TbLH",
+      "lyrics": "<p>amu saenggak eopsi geonnendeushan hanmadie<br /> bamsae saenggage jamgyeo<br /> I think I&#39;m going crazy<br /> sulgime han anbu insappunilkka<br /> dabeul hancham jeokdaga jiunda<br /> geudaen nal cham swipgedo jiwossjiman<br /> mangsangilkka yojeumeun geudae sajindeul soge<br /> naman arabol su issneun sseulsseulhami boyeo<br /> anya ireom andoeneun geoji<br /> naega ireogil baragessji<br /> eonjena daheul su eopsneun goseseoman<br /> son naemineun neo<br /> geudaeyeo naege dorawa jul su eopsdamyeon<br /> dorabwado an dwaeyo<br /> Baby I will try to let you go<br /> geudaeyeo naneun jugeodo an doegessdamyeon<br /> charari nal sum swige hajido mayo<br /> ajikdo nan geudae ane<br /> majuchilkkabwa aesseo nareul pihadeon niga<br /> yojeum ttara wae eodil gado boineun geolkka<br /> uyeoneul yeokkeo unmyeongeul mandeulgo<br /> huimanggomunin geol almyeonseodo<br /> yeojeonhi daheul su eopsneun neoege<br /> soneul naemineun na<br /> geudaeyeo naege dorawa jul su eopsdamyeon<br /> dorabwado an dwaeyo<br /> Baby I will try to let you go<br /> geudaeyeo naneun jugeodo an doegessdamyeon<br /> charari nal sum swige hajido mayo<br /> ajikdo nan geudae ane saneunde<br /> geudaen naega eopseodo jal sal su isseumyeonseo<br /> wae nal ireohge<br /> goerophigo michige mandeunayo<br /> Baby please let me go<br /> Don&#39;t you know<br /> I&#39;m dying<br /> Oh god<br /> nal nohajul su eopsdamyeon naege dorawayo<br /> geudaeyeo naege dorawa jul su eopsdamyeon<br /> dorabwado an dwaeyo<br /> Baby I will try to let you go<br /> geudaeyeo naneun jugeodo an doegessdamyeon<br /> charari nal sum swige hajido mayo<br /> ajikdo nan geudae ane sarayo</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "SEOULITE",
+      "title": "PASSING BY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1FVz5Lh2Q_Gxiy48UYCfbw1T8bNEaR2vV",
+      "lyrics": "<p>Heundeullineun geu baram soriga<br /> Nae mameul heundeulgo seuchyeo jinaganda<br /> Apeul mankeum apado,<br /> Nan eolmana deo apaya<br /> Amureohji anheul su isseulkka<br /> Amu ildo aniraneun deut neon<br /> Geureohge nal seuchyeo jinaga<br /> Sigan jina gyejeoldo bakkwigo,<br /> Mameun jakkuman siryeo oneunde<br /> Na honjaseon chagawojijil moshana bwa<br /> Neon oneuldo nal<br /> Seuchyeo ganda<br /> Seuchyeo ganda<br /> <br /> Nalkaroun kare beideut, geureohge<br /> Neon nal seuchyeo jinaganda<br /> Heureuneun i nunmureul tto eolmana deo heullyeoya<br /> Honja nameun ge iksukhaejilkka<br /> <br /> Amu ildo aniraneun deut neon<br /> Geureohge nal seuchyeo jinaga<br /> Sigan jina gyejeoldo bakkwigo,<br /> Mameun jakkuman siryeo oneunde<br /> Na honjaseon chagawo jijil moshana bwa<br /> Neon oneuldo nal<br /> <br /> Nado nae mam jal mollaseo<br /> (Neol mollasseo)<br /> Neoreul himdeulge haeseo (manhi apeuge haeseo)<br /> Deo mianhan maeumppun, nan gomaun maeumppun<br /> Geurae ije nal tteonamyeon dasin bol su eopsjiman<br /> Neoreul geurigo tto geuriwohalge<br /> <br /> Amu ildo aniraneun deut neon<br /> Geureohge nal seuchyeo jinaga<br /> Neowa naega byeonhaebeorin dwiro<br /> Nae nunmureun meomchujil moshae<br /> Ajikdo urin seororeul moreuna bwa<br /> Neon oneuldo nal<br /> <br /> Seuchyeo ganda</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "SEOULITE",
+      "title": "UP ALL NIGHT",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1lLzOAG9ovJqdJqlyYK5snTS5pGbf3nUj",
+      "lyrics": "<p>yojeum<br /> na momi an joha<br /> byeongwone gabwaya halkka<br /> <br /> jami<br /> bujokhadago<br /> swimyeon doenda hagessjiman<br /> <br /> oneuldo ne saenggage bamsae<br /> kkeutnae nuneul gamado<br /> ne eolguri boigo<br /> <br /> oneuldo ne gieoge bamsae<br /> sul hanjaneul masyeodo<br /> geu gieoge chwihago<br /> Think I&#39;m lost without you<br /> <br /> hal il<br /> neomu manheunde<br /> oneuldo jigakhagessji<br /> <br /> bamsae<br /> mwo han geonyago<br /> sseunsorireul deutgessjiman<br /> <br /> I got trouble sleepin&#39;<br /> ttame jeoksin begae<br /> Ain&#39;t no religion that can save me<br /> god, I&#39;m so&hellip;<br /> Sick and tired of being sick and tired<br /> nado<br /> jamsirado nun gamgo sipjiman<br /> got nega chajaol akmong&hellip;<br /> ttaemune<br /> I&#39;m up all night again<br /> <br /> oneuldo ne saenggage bamsae<br /> kkeutnae nuneul gamado<br /> ne eolguri boigo<br /> <br /> oneuldo ne gieoge bamsae<br /> sul hanjaneul masyeodo<br /> geu gieoge chwihago<br /> Think I&#39;m lost without<br /> <br /> You... baby I know that<br /> it sounds so crazy<br /> but without you my night<br /> just felt like day<br /> ooh ireodaga byeongdeulgessjiman<br /> nega eopsneun achimeun naege<br /> eodumppuniraseo<br /> <br /> oneuldo ne saenggage bamsae<br /> (Cuz I can&#39;t sleep without you)<br /> kkeutnae nuneul gamado<br /> ne eolguri boigo<br /> (I need you by my side)<br /> <br /> oneuldo ne gieoge bamsae<br /> (Cuz I can&#39;t live without you)<br /> sul hanjaneul masyeodo<br /> geu gieoge chwihago<br /> Think I&#39;m lost without you</p>"
+	},
+	{
+      "id": 34,
+      "name_category": "SEOULITE",
+      "title": "VIDEO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1VxfwxRmyAze-32Z2TdhsTBj5qxv0sCyj",
+      "lyrics": "<p>hal mareul ilheobeorin deus<br /> honjaseo banghwanghaneun nun<br /> anbwado bidio-o<br /> ppeonhaji mwo<br /> <br /> oh-o-oh<br /> <br /> dasi tto bilgo bil moseup<br /> nareul tto tteudeomallil chingudeurui maldeul<br /> anbwado bidio-o<br /> ijeneun heosuseumman nawa baby<br /> <br /> I&#39;m sorry<br /> No baby<br /> I&#39;m sorry<br /> naega mianhae<br /> geuman mianhaedo dwae<br /> I&#39;m out of this game<br /> nan geumanhallae<br /> <br /> waeinji tteumhadeon ne phone call<br /> hanadul majchwojineun peojeulcheoreom<br /> anbwado bidio-o<br /> <br /> ppeonhaji mwo<br /> (hoksina hani yeoksina)<br /> <br /> bammada geollyeooneun jeonhwareul<br /> sisikolkolhan byeonmyeongeul<br /> deutgi silheo nan jichyeosseo No more<br /> <br /> niga ulmyeobulmyeo ttesseodo<br /> jukgessda babeul geolleodo<br /> ijen usgijido anha<br /> <br /> balkeun miso geu areumdaum ttaeme<br /> gyesok bogo issjani nuni meoreosseo jamkkan<br /> <br /> neoneun geunyeodeulgwaui jeouljiredo<br /> hangsang mugeowoseo gabyeoumeul wonhaesseossna bwa<br /> modeun namjan saeroun gireul bangapge<br /> saenggakhaji maeil bami ttokgatasseunikka<br /> u only missin&#39; home when u hit the road<br /> ye u only know when u let her go<br /> that ur still in love with her<br /> <br /> jigyeopge banbokdwaessdeon uri satu<br /> geunyeodeulgwaneun uri banuibando<br /> andoedeora waenji neoga jakku<br /> modeun myeoneseo uwolhadeora han su<br /> <br /> jamsi oechul<br /> geu dwie an geon soulmatei issdamyeon neoga naui jjakkkung<br /> imi neujeossdamyeon naega gidarilge<br /> cheoeum neoreul mannasseosseul ttae geudaero ye<br /> <br /> I&#39;m sorry<br /> No baby<br /> I&#39;m sorry<br /> naega mianhae<br /> geuman mianhaedo dwae<br /> I&#39;m out of this game<br /> nan geumanhallae<br /> <br /> kkeuteopsi banbokdoeneun silsu<br /> byeokbogo sorichineun gibun<br /> ijen deo gidaril suga eopseo<br /> nan ppaejwo i meongcheonghan geimeseo<br /> <br /> I&#39;m sorry<br /> No baby<br /> I&#39;m sorry<br /> naega mianhae<br /> geuman mianhaedo dwae<br /> I&#39;m out of this game<br /> nan geumanhallae<br /> I&#39;m sorry<br /> No baby<br /> I&#39;m sorry<br /> naega mianhae<br /> geuman mianhaedo dwae<br /> I&#39;m out of this game<br /> nan geumanhallae<br /> &nbsp;</p>"
+	},
+	{
+      "id": 35,
+      "name_category": "SEOULITE",
+      "title": "MISSING U",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313337cfd0eb690d29cc996eb",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1n5eFlssE1fewi0C7cfpMC9YNjvUgCJR9",
+      "lyrics": "<p>da ijhyeojineun nari ogin ogessji?<br /> nuneul gamado neoui eolguri tteooreuji anhneun<br /> geu nari ogessji<br /> chingudeurege ne yaegil deureodo<br /> naccseon saramin deusi<br /> nan gogaeman kkeudeogigessji<br /> <br /> geureohge haruharu jinago<br /> urin eopsdeon iri dwaebeorigo<br /> <br /> neol saranghan jeok eopsneun naega doeeo salda<br /> mundeuk nega saenggagi nal ttaen<br /> usgo sipeo<br /> nado naega jigyeowo<br /> ireogin silheunde<br /> <br /> I&#39;m missin&#39; you<br /> nega ireon nal miwohaedo<br /> I&#39;m missin&#39; you<br /> nan neol butjapgiman hago sigani<br /> heureugo nunmuri heulleodo<br /> wae nae maeumeun goyeo issneunji<br /> ajigeun neoege chueogi doeneun ge silheo,<br /> mianhae<br /> I&#39;m missin&#39; you<br /> <br /> da ijhyeojimyeon nado neocheoreom doegessji<br /> (eonjenganeun)<br /> amureohji anhge neoui ireumeul bureugo<br /> anbureul mutge doegessji<br /> jal jinaendaneun mare sumi meojji anhgo<br /> nunmuri heureuji anheul tende geuge an dwae<br /> <br /> I&#39;m missin&#39; you<br /> nega ireon nal miwohaedo<br /> I&#39;m missin&#39; you<br /> nan neol butjapgiman hago sigani heureugo<br /> nunmuri heulleodo<br /> wae nae maeumeun goyeo issneunji<br /> ajigeun neoege chueogi doeneun ge silheo,<br /> ihaehae<br /> I&#39;m missin&#39; you<br /> <br /> neol jiumyeon nado jiwojilkka bwa<br /> sil gateun gieok hanarado<br /> nohchimyeon modeun ge kkeunheojilkka bwa<br /> ireohge maedallineunde<br /> neon nae jageun miryeondo mugeowossni<br /> imi nohabeoryeossni<br /> dorawa jwo<br /> <br /> I&#39;m missin&#39; you<br /> nega ireon nal miwohaedo<br /> I&#39;m missin&#39; you<br /> nan neol butjapgiman hago sigani<br /> heureugo nunmuri heulleodo<br /> wae nae maeumeun goyeo issneunji<br /> ajigeun neoege chueogi doeneun ge silheo,<br /> mianhae<br /> I&#39;m missin&#39; you<br /> <br /> oneulman ireolge<br /> neoreul ijeulge<br /> <br /> I&#39;m missin&#39; you</p>"
+	},
+	
+	
+	
+	
+	
+	{
+      "id": 36,
+      "name_category": "Singles",
+      "title": "1, 2, 3, 4",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jEB1PatnIG2d1PFpbvpGs-rszJa25kWv",
+      "lyrics": "<p>Hey<br /> C&rsquo;mon now<br /> I said 1 2 3</p> <p>ajigdo naega ni georaneun<br /> chaggag-eun geuman<br /> yejeon-ui geuttae naega anya<br /> achim-i balgneun sorie<br /> kkoch-eun jeomanchi pyeonneunde<br /> yeojeonhi jeongsin mot charyeo wae</p> <p>I&rsquo;m sick and tired neoui wiseon-e<br /> eoseolpeun liar ooh ije jom kkeojyeojullae<br /> I think I&rsquo;m going going crazy ooh<br /> I think I&rsquo;m going going crazy ooh</p> <p>deo bichamhage guljineun ma<br /> sarajyeojwo jeo meolli<br /> no no Nananananana<br /> guchahage uljineun ma<br /> da ij-eojwo yeong-wonhi no no</p> <p>Listen<br /> nam geogjeonghaji malgo neona jal hae ni<br /> geureon dongjeong ttawin pir-yo eobs-eo uh</p> <p>I said 1 and 2 and 3 4 ooh<br /> sigan-i modeungeol haegyeorhalgeoya<br /> 1 and 2 and 3 4 ooh<br /> game over game over ooh<br /> game over</p> <p>na gat-eun yeoja eodil gado<br /> nun ssitgo bwado bogi deumune<br /> ttaeroneun segsi ttaeron cheongsunham-e<br /> namjadeur-eun ulgo gane yuchihage</p> <p>I&rsquo;m sick and tired neoui wiseon-e<br /> eoseolpeun liar ooh jebal jom kkeojyeojullae<br /> I think I&rsquo;m going going crazy ooh<br /> I think I&rsquo;m going going crazy ooh</p> <p>deo bichamhage guljineun ma<br /> sarajyeojwo jeo meolli<br /> no no Nananananana<br /> guchahage uljineun ma<br /> da ij-eojwo yeong-wonhi no no</p> <p>Listen<br /> nam geogjeonghaji malgo neona jal hae<br /> ni geureon dongjeong ttawin pir-yo eobs-eo uh</p> <p>I said 1 and 2 and 3 4 ooh<br /> sigan-i modeungeol haegyeorhalgeoya<br /> 1 and 2 and 3 4 ooh<br /> game over game over ooh<br /> game over</p> <p>neomuna apa<br /> beolsseo ij-eonna bwa<br /> Hey baby<br /> tteonagajwo</p> <p>I said 1 and 2 and 3 4 ooh<br /> sigan-i modeungeol haegyeorhalgeoya<br /> 1 and 2 and 3 4 ooh<br /> game over game over ooh<br /> game over</p> <p>1 and 2 and 3 4<br /> 1 and 2 and 3 4<br /> 1 and 2 and 3 4</p> <p>game over<br /> game over<br /> game over</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "Singles",
+      "title": "Scarecrow",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Mkb9_LZksjN_pvXyb77GPsIWxQy8ppBz",
+      "lyrics": "<p>Gu ot don sa rang do<br /> Shi ga ni ji na myon<br /> Byon ha go ma nun gol<br /> We nan mo ru nya go<br /> Il nyon man ji na do<br /> Ji gum gwa da la jo<br /> Ni seng ga ge a pul i run<br /> Ob sul ko ra go</p> <p>Ha ji man nan ne<br /> Ma u mul jal a nun gol<br /> Byon ha jil a nul kol<br /> No mu jal a nun kol<br /> Se sang en jong he jin<br /> Ja gi da it gi ye<br /> Gu ron sa rang un jol de<br /> I cho ji ji an nun gol</p> <p>No nun ne ga nol<br /> Da i jun jul al get ji man<br /> Da run sa ram gwa heng bok<br /> Han jul al get ji man<br /> Na nun a jik do<br /> I rok ke mon it go i so<br /> Mo du ga to na ga do<br /> Hon ja so in nun<br /> Ho su a bi cho rom</p> <p>He ga ji go mo du ji be<br /> Du ro ga myon<br /> Nor pun dul pa ne na hon ja<br /> So in nun gol<br /> A pi jo gum shik<br /> An bo i nun o du mi<br /> Hon ja in nun nal jom jom<br /> Du ryop ge ha ji man<br /> Wo ooh..</p> <p>O nu se kok ga mun<br /> Du nu nul to bon ni<br /> A rum da un<br /> Byol du ri bin na go i so<br /> Mo li to nan no ye<br /> Gu mo sup dul cho rom<br /> Ba ra bo myon so<br /> On jeng gan ne ge<br /> O gi rul pi ro so</p> <p>No nun ne ga nol<br /> Da i jun jul al get ji man<br /> Da run sa ram gwa heng bok<br /> Han jul al get ji man<br /> Na nun a jik do<br /> I rok ke mon it go i so<br /> Mo du ga to na ga do<br /> Hon ja so in nun<br /> Ho su a bi cho rom</p> <p>No nun ne ga nol<br /> Da i jun jul al get ji man (o na nun ne ga)<br /> Da run sa ram gwa heng bok<br /> Han jul al get ji man (no rul it go)<br /> Na nun a jik do<br /> I rok ke mot it go i so (nan mot it go i so)<br /> Mo du ga to na ga do<br /> Hon ja so in nun<br /> Ho su a bi cho rom<br /> (nal du go to na ga do ho su a bi cho rom)</p> <p>Ho ho<br /> Hon ja so in nun<br /> Ho su a bi cho rom<br /> Wo ho oh wo</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "Singles",
+      "title": "MY LOVE",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jZAxyOnI-ys_w9oF4af4iXlLQapKQJue",
+      "lyrics": "<p>Neul meolliseo jikyeomanbwassjyo<br /> Nae sarangin geot gataseo geudae</p> <p>Gateun maeumin jul<br /> Arassjyo dareun goseul boassjiman</p> <p>Baramcheoreom I meonjicheoreom<br /> Japhijiga anha boijianha</p> <p>Remember love you<br /> I love you sarangin jul<br /> Mideossgo unmyeongira bulleossjyo</p> <p>Remember love you<br /> I love you geudae nundongja<br /> Soge naega salgoissneunde</p> <p>Neoegeman daedaphaejwoyo<br /> Hwicheongineun nal butjabajwoyo</p> <p>Nae sarang nae sarang</p> <p>Nae maeumui change<br /> Naerineun nunmuri daedaphaejune</p> <p>Naege irul su eopsneun<br /> Inyeoniran ijeoyaman haneun saram</p> <p>Meoreojineun naui sarangeul<br /> Bonaejwoyahaeyo naega anini</p> <p>Remember love you I love you<br /> Sarangin jul mideossgo unmyeongira bulleossjyo</p> <p>Remember love you I love you<br /> Geudae nundongja soge naega salgoissneunde</p> <p>Neoegeman daedaphaejwoyo<br /> Hwicheongineun nal butjabajwoyo</p> <p>Nae sarang nae sarang</p>"
+	},
+	{
+      "id": 39,
+      "name_category": "Singles",
+      "title": "MY LOVE (Inst.)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1yieCTEHYqq7u2zaat_H8xWu30qmOfiDc",
+      "lyrics": ""
+	},
+	{
+      "id": 40,
+      "name_category": "Singles",
+      "title": "Golden Slumbers",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=15DNwVG2hux9yxAjNw6HCCWe6Kn0evKRb",
+      "lyrics": "<p>Once there was a way<br /> To get back homeward<br /> Once there was a way<br /> To get back home<br /> Sleep, pretty darling<br /> Dot not cry<br /> And I will sing a lullaby</p> <p>Golden slumbers<br /> Fill your eyes<br /> Smiles await you when you rise<br /> Sleep pretty darling<br /> Do not cry<br /> And I will sing a lullaby</p> <p>Once there was a way<br /> To get back homeward<br /> Once there was a way<br /> To get back home<br /> Sleep, pretty darling<br /> Do not cry<br /> And I will sing a lullaby</p>"
+	},
+	{
+      "id": 41,
+      "name_category": "Singles",
+      "title": "HOLO",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1DdznvI_P6ilnUZNtamcWx3jTL-6KZBYd",
+      "lyrics": "<p>hollo inneun ge gamanhi inneun ge<br /> eoryeoun iringayo<br /> hollo isseodo gachi isseodo<br /> weroun geon gatayo<br /> One day it will stop</p> <p>malhaneun daero saenggakhan daero<br /> dweneun geot aningayo<br /> haetbicheul jjwego sum shwieo bwado<br /> shwipjineun anneyo<br /> One day it will stop</p> <p>And I&rsquo;m gonna stop cryin&rsquo;, stop feelin&rsquo;<br /> Stop thinkin&rsquo; &lsquo;bout you my babe<br /> ije geuman ul geoya naol geoya<br /> nareul deo akkyeojul geoya<br /> And I&rsquo;m gonna stop</p> <p>jyaeboda naega naboda jyaega<br /> naeun ge jungyohangayo<br /> sumaneun nareul gweroweohada<br /> ije jom algesseoyo</p> <p>gamanhi anja geokjeonghagien<br /> nan neomu sojunghaeyo<br /> deuryeodabwayo mamsoge minnat<br /> geudaero gwaenchanayo<br /> It&rsquo;s gotta stop</p> <p>And I&rsquo;m gonna stop cryin&rsquo;, stop feelin&rsquo;<br /> Stop thinkin&rsquo; &lsquo;bout you my babe<br /> ije geuman ul geoya naol geoya<br /> nareul deo akkyeojul geoya<br /> And I&rsquo;m gonna stop<br /> And I&rsquo;m gonna stop</p> <p>hollo inneun ge gamanhi inneun ge<br /> eoryeoun iringayo<br /> hollo isseodo gachi isseodo<br /> weroun geon gatayo<br /> One day it will stop</p>"
+	},
+	{
+      "id": 42,
+      "name_category": "Singles",
+      "title": "Brave Enough",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1mul87b9YJhvD89hmZSa4J3a42LCAJPsm",
+      "lyrics": "<p>Scared of being alone<br /> Or scared of love<br /> My shadow just walks beside me<br /> I&#39;m getting closer to the edge<br /> But try hard not to lose myself</p> <p>maeumi honjaseo georeogal ttae<br /> joyonghi jikyeo barabwa jwo<br /> hoksi ijeotdeon siganui soriga<br /> geu mame daeul su isseulji molla</p> <p>I say I&#39;m brave enough<br /> Brave enough to be myself<br /> And there&#39;ll be a dawn after<br /> This long and dark night</p> <p>And the morning brings me a story<br /> When I&#39;m standing all on my own<br /> Is there anybody out there?<br /> Just realized I&#39;m still in my dream</p> <p>maeume nunmureul boil ttaeedo<br /> moreun cheok useumyeo gamssa anajwo<br /> eonjenga meomuldeon nae anui gieogi<br /> nunmureul dakka jul su isseulji molla</p> <p>eoneu nal mundeuk dwidoraboni<br /> geu gose natseon naega isseo<br /> mareomneun misoro nareul bomyeo<br /> gwaenchantago</p> <p>I say I&#39;m brave enough<br /> Brave enough to be myself<br /> And there&#39;ll be a dawn after<br /> This long and dark night</p>"
+	},
+	{
+      "id": 43,
+      "name_category": "Singles",
+      "title": "Brave Enough - Instrumental",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1PggYIjVLbc9Zw7QVrR6eYIWuleYV1dZt",
+      "lyrics": ""
+	},
+	{
+      "id": 44,
+      "name_category": "Singles",
+      "title": "For You",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1JiZV9mb0b2wtxmCW5W7Wm_p_pUKD1UZY",
+      "lyrics": "<p>When my heart is beating for you<br /> That&rsquo;s when I lose my control<br /> When my heart is beating for you<br /> Come close to me<br /> Come close to me</p> <p>When my heart is beating for you<br /> It&rsquo;s crazy I see nothing but you<br /> Baby my heart&rsquo;s beating for you<br /> Come close to me<br /> Give a kiss to me</p> <p>Listen to me<br /> I am the woman<br /> that you&rsquo;ve been waiting for<br /> Would you push the button<br /> that you&rsquo;ve been looking for<br /> With just one kiss<br /> you&rsquo;re gonna need it more<br /> Baby I could give you<br /> what you want</p> <p>When my heart is beating for you<br /> And my mind feels Baby Blue<br /> Baby my heart&rsquo;s beating for you<br /> Come close to me<br /> Come close to me<br /> Close to me</p> <p>Listen to me<br /> I am the man<br /> that you&rsquo;ve been waiting for<br /> Would you push the button<br /> that you&rsquo;ve been looking for<br /> With just one kiss<br /> you&rsquo;re gonna need it more<br /> Baby I could give you<br /> what you want</p> <p>When my heart is beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> And my mind feels Baby Blue<br /> You&rsquo;re the only one that<br /> Baby my heart&rsquo;s beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> Come close to me<br /> Come close to me</p> <p>When my heart is beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> And my mind feels Baby Blue<br /> You&rsquo;re the only one that<br /> Baby my heart&rsquo;s beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> Come close to me<br /> Come close to me<br /> Close to me</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel</p>"
+	},
+	{
+      "id": 45,
+      "name_category": "Singles",
+      "title": "Dear you (Romance 101 X LeeHi)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1xkNNz5HYpv_DA36zBDw7alzVnIzI4Rai",
+      "lyrics": ""
+	},
+	{
+      "id": 46,
+      "name_category": "Singles",
+      "title": "Dear you (Romance 101 X LeeHi) (Inst.)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=16dsz3VcwDAKoxnFHSPFS4UECIgFPiw2d",
+      "lyrics": ""
+	},
+	{
+      "id": 47,
+      "name_category": "Singles",
+      "title": "Hold My Hand",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pk_rFxeWzshpAHfCXQ40Xmf7qHaVIqkg",
+      "lyrics": "<p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again</p> <p>Naui soneul japdeon geudaeui songiri<br /> Eolmana ttatteushaessneunji<br /> Dasi al su issge</p> <p>Han beonman deo sonjaba jwoyo<br /> Ongireul neukkige hae jwoyo<br /> Barami bureoseo chagapdan marieyo</p> <p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again</p> <p>Nareul anajudeon geudaeui pumsogi<br /> Eolmana ttatteushaessneunji<br /> Dasi algo sipjyo</p> <p>Majimak geunal bam jakbyeol insahago<br /> Doraseoseo seo issneunde<br /> Chagaun nunmulman</p> <p>Han beonman deo nal anajwoyo<br /> Sarangeul neukkige hae jwoyo<br /> Maeumi bieoseo chagapdan marieyo</p> <p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again again</p> <p>I said 1 2 3 you<br /> Oneuldo han baljaguk<br /> Dorawa dallago (You)<br /> 1 2 3 You<br /> Oneuldo han baljaguk<br /> 4 5 6</p> <p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again again</p> <p>Geudae eopsin neomu chupdan marieyo<br /> Geudaen cham ttatteushaesseossdan marieyo<br /> Idaero kkeutnamyeon<br /> nan andoendan marieyo</p> <p>Let me hold your hand<br /> Again and again and again<br /> I want you to come back<br /> I want you to love me again again<br /> Again</p>"
+	},
+	{
+      "id": 48,
+      "name_category": "Singles",
+      "title": "Hold My Hand - Instrumental",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1B32llbhOsLFB1MGuXvl-rpR6QBR6nz1I",
+      "lyrics": ""
+	},
+	{
+      "id": 49,
+      "name_category": "Singles",
+      "title": "For You (Holiday Remix)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1WGoWuuoQigYdCVzSZYodg6LlEDirSPLm",
+      "lyrics": "<p>When my heart is beating for you<br /> That&rsquo;s when I lose my control<br /> When my heart is beating for you<br /> Come close to me<br /> Come close to me</p> <p>When my heart is beating for you<br /> It&rsquo;s crazy I see nothing but you<br /> Baby my heart&rsquo;s beating for you<br /> Come close to me<br /> Give a kiss to me</p> <p>Listen to me<br /> I am the woman<br /> that you&rsquo;ve been waiting for<br /> Would you push the button<br /> that you&rsquo;ve been looking for<br /> With just one kiss<br /> you&rsquo;re gonna need it more<br /> Baby I could give you<br /> what you want</p> <p>When my heart is beating for you<br /> And my mind feels Baby Blue<br /> Baby my heart&rsquo;s beating for you<br /> Come close to me<br /> Come close to me<br /> Close to me</p> <p>Listen to me<br /> I am the man<br /> that you&rsquo;ve been waiting for<br /> Would you push the button<br /> that you&rsquo;ve been looking for<br /> With just one kiss<br /> you&rsquo;re gonna need it more<br /> Baby I could give you<br /> what you want</p> <p>When my heart is beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> And my mind feels Baby Blue<br /> You&rsquo;re the only one that<br /> Baby my heart&rsquo;s beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> Come close to me<br /> Come close to me</p> <p>When my heart is beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> And my mind feels Baby Blue<br /> You&rsquo;re the only one that<br /> Baby my heart&rsquo;s beating for you<br /> You&rsquo;re the only one<br /> that make me feel<br /> Come close to me<br /> Come close to me<br /> Close to me</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel<br /> You&rsquo;re the only one that</p> <p>You&rsquo;re the only one<br /> that make me feel</p>"
+	},
+	{
+      "id": 50,
+      "name_category": "Singles",
+      "title": "We'll shine brighter than any other stars",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Bd3zU6ZZuD1ZpnvAdB2zSdoiQm9JJmgz",
+      "lyrics": "<p>ttaseuhaetdeon haeneun jeomureogago jeokdanghi nari joaseo<br /> ireon bameun nega bogo sipeunde neoman gwaenchantamyeon<br /> naega derireo galge</p> <p>keopineun neon eottae eotteon geodeun joa<br /> neowa duri hamkke itdamyeon nan<br /> sanchaegeun neon eottae nari neomu joa<br /> eosaekan gibuni silchineun aneungeol</p> <p>bureooneun barami nae mameul seollege haejwo<br /> pogeunhage naui harureul gamssajune<br /> neoreul joahana bwa eoneusae nae mameun<br /> ireoke neoreul joahage dwaenna bwa</p> <p>Du du du du du du du du<br /> I don&#39;t wanna anything something<br /> Du du du du du du du du na whoa<br /> Du du du du du du du du with you<br /> urin eotteohan byeolboda binnal geoya</p> <p>ttaseuhan nal seonseonhan jeonyeok gonggi<br /> ireoke naui mameul jeoksigo<br /> eoseo nawa neoui soneul jaba<br /> yeongwonhi nameul oneul bamui kkumiya baby<br /> neodo nawa gateulkka woo</p> <p>bureooneun barami nae mameul seollege haejwo<br /> pogeunhage naui harureul gamssajune<br /> neoreul joahana bwa eoneusae nae mameun<br /> ireoke neoreul joahage dwaenna bwa</p> <p>sasireun na ireon jeok cheoeumiya<br /> neowa hamkkeil ttaen eodiro sarajyeo<br /> oneul bamdo uri sigan soge<br /> areumdapge nameul geoya bunmyeong</p> <p>bureooneun barami urireul seollege haejwo<br /> pogeunhage naui harureul gamssajune<br /> hamkke geotja eodideun nawa hamkke mallya<br /> urin eotteohan byeolboda binnal geoya</p> <p>Du du du du du du du du<br /> I don&#39;t wanna anything something<br /> Du du du du du du du du<br /> Du du du du du du du du with you<br /> urin eotteohan byeolboda binnal geoya</p>"
+	},
+	{
+      "id": 51,
+      "name_category": "Singles",
+      "title": "We'll shine brighter than any other stars - Instrumental",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=18DodnOM41QOuehlO0PzxsRedB7e1xQus",
+      "lyrics": ""
+	}
+	
+  ]
+}
