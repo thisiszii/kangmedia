@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3379099559308238/9297583824",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/7146859366",
+      "main_ads_natives":"ca-app-pub-3379099559308238/4045257145",
+      "main_ads_rewards":"ca-app-pub-3379099559308238/5358338819",
+      "backup_ads_natives":"31c47a40e9ed8706",
+      "backup_ads_banner":"4ea5b903aaf62d62",
+      "backup_ads_intertitial":"860029d8466261f2",
+      "backup_ads_rewards":"bce9c5576d282a1c",
+      "open_ads_admob":"ca-app-pub-3379099559308238/8374550243",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -28,9 +28,69 @@
     }
   ],
   "Categories": [
-   
+    {
+      "id": 1,
+      "name_category": "Single",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5b1a291b0a6a689091d54d8b"
+    }
   ],
   "Data": [
-   
+    {
+      "id": 1,
+      "name_category": "Single",
+      "title": "After LIKE",
+      "image": "https://static.wikia.nocookie.net/ive/images/d/d7/After_Like_album_cover.png",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/01%20After%20LIKE.mp3",
+      "lyrics": "<p>Tto moreuji nae maeumi<br /> Jeo nalsshicheoreom bakkwilji<br /> Nal najocha da al su eopseuni<br /> <br /> Geuge mweoga jungyohani<br /> Jigeum nege wanjeonhi<br /> Puk ppajyeottan ge jungyohan geoji<br /> <br /> Ama kkumman gatgetjiman bunmyeong kkumi aniya<br /> Dalli seolmyeonghal su eomneun igeon sarangil geoya<br /> Banggeum naega malhan gamjeong gamhi uishimhaji ma<br /> Geunyang jotaneun ge anya What&#39;s after &#39;LIKE&#39;?<br /> <br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> L daeum tto O daeum nan yeah<br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> What&#39;s after &#39;LIKE&#39;?<br /> What&#39;s after &#39;LIKE&#39;?<br /> <br /> Joshimhae du shimjange pin<br /> Saeparan i bulkkochi<br /> Jeo taeyangboda tteugeoul teni<br /> <br /> Nan jeo wiro tto araero<br /> Nae geuraepeuneun pogi keo<br /> Yeah that&#39;s me<br /> <br /> Du beon se beon pigonhage jakku jilmunhaji ma<br /> Nae jangjeomi mweonji ara? baro soljikhan geoya<br /> Banggeum naega malhan gamjeong gamhi uishimhaji ma<br /> Geunyang jotaneun ge anya What&#39;s after &#39;LIKE&#39;?<br /> <br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> L daeum tto O daeum nan yeah<br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> What&#39;s after &#39;LIKE&#39;?<br /> What&#39;s after &#39;LIKE&#39;?<br /> <br /> What after like nae mame strike<br /> Jigeum neukkin jjarishameun machi tike<br /> LO daeume I geu daeume VE<br /> Yeogin neowa nae space amudo makji mothae<br /> Nareul bomyeon nun kkamppakhal<br /> Shigan jochado akkaul geol<br /> Deudieo manna bangaweo<br /> LOVE sai nohil I<br /> (What&#39;s after &#39;LIKE&#39;?)<br /> <br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> E ap tto V ap nan yeah<br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> What&#39;s after &#39;LIKE&#39;?<br /> <br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> L daeum tto O daeum nan yeah<br /> You and I<br /> It&#39;s more than &#39;LIKE&#39;<br /> What&#39;s after &#39;LIKE&#39;?<br /> What&#39;s after &#39;LIKE&#39;?</p> " 
+	},
+	{
+      "id": 2,
+      "name_category": "Single",
+      "title": "LOVE DIVE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/01%20LOVE%20DIVE.mp3",
+      "lyrics": "<p>Ooh, ooh<br /> Yeah<br /> <br /> Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)<br /> Igeomyeon chungbunhae jjotgo jjonneun ireon nori<br /> Chameul su eomneun ikkeullimgwa hogisim<br /> Myohan neowa na dugo bomyeon algetji<br /> <br /> Ooh-ooh, ooh-ooh<br /> Nundongja araero<br /> Ooh-ooh, ooh-ooh<br /> Gamchugo inneun geo<br /> Ooh-ooh, ooh-ooh<br /> Yeah, it&#39;s so bad (So bad) it&#39;s good (It&#39;s good)<br /> Nan geu mameul jom bwayagesseo<br /> <br /> Narcissistic<br /> My God, I love it<br /> Seororeul bichun bam<br /> Areumdaun kkaman<br /> Nunbit deo ppajyeo gipi<br /> (Neon naegero nan negero)<br /> Sum chamgo love dive<br /> <br /> Ooh-ooh, ooh-ooh<br /> La-la-la-la-la-la<br /> Ooh-ooh, ooh-ooh<br /> Eoseo waseo love dive<br /> Ooh-ooh, ooh-ooh<br /> Oh, perfect sacrifice<br /> Yeah, sum chamgo love dive (It&#39;s easy)<br /> <br /> Maeumeun ireoke aldagado moreuji<br /> Sarangiraneun geon hansungane pil teni<br /> Jikjeop deureowa du nuneuro hwaginhae<br /> Nae mam gajang gipeun dero omyeon dwae<br /> <br /> Ooh-ooh, ooh-ooh<br /> Mangseoril siganeun<br /> Ooh-ooh, ooh-ooh<br /> 3chomyeon doeneun geol<br /> Ooh-ooh, ooh-ooh<br /> Yeah, it&#39;s so bad (So bad) it&#39;s good (It&#39;s good)<br /> Wonhamyeon gamhi ttwieodeureo<br /> <br /> Narcissistic<br /> My God, I love it<br /> Seororeul bichun bam (Ooh)<br /> Areumdaun kkaman<br /> Nunbit deo ppajyeo gipi<br /> (Neon naegero nan negero)<br /> Sum chamgo love dive<br /> <br /> Ooh-ooh, ooh-ooh<br /> La-la-la-la-la-la<br /> Ooh-ooh, ooh-ooh<br /> Eoseo waseo love dive<br /> Ooh-ooh, ooh-ooh<br /> Oh, perfect sacrifice<br /> Yeah, sum chamgo love dive<br /> <br /> Love dive<br /> Sum chamgo love dive (Yes, yes) (Yeah)<br /> Sum chamgo love dive (Ooh, ooh)<br /> Sum chamgo love dive (Yes, yes) (Yeah)<br /> Sum chamgo love dive<br /> <br /> Ooh-ooh, ooh-ooh<br /> La-la-la-la-la-la<br /> Ooh-ooh, ooh-ooh<br /> Eoseo waseo love dive<br /> Ooh-ooh, ooh-ooh<br /> Oh, perfect sacrifice<br /> Yeah, sum chamgo love dive</p> " 
+	},
+	{
+      "id": 3,
+      "name_category": "Single",
+      "title": "ELEVEN",
+      "image": "https://cdn.kgasa.com/wp-content/uploads/2021/11/IVE-ELEVEN.jpg",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/01%20ELEVEN.mp3",
+      "lyrics": "<p>Ttabunhan naui nunbichi<br /> Mupyojeonghaetdeon eolguri<br /> Neol bomyeo binnago isseo<br /> Neol dameun nundongjaneun odd<br /> <br /> Nae ane ppaegokage pieonaneun blue<br /> Naega jigeum neukkineun i gamjeongdeureun true<br /> Nae ipsureul ganjireopin natseon geu ireum<br /> Nan mollasseo nae mami iri dachaerounji<br /> <br /> Gin kkumeul kkuge hae i bangeun jageun heaven<br /> Chumeul chugon hae silkeot eojireoul mankeum<br /> Oh my, oh my God<br /> Han kan deo chaeugo isseo<br /> Jal bwa one, two, three, four, five, six, seven<br /> You make me feel like eleven<br /> <br /> Tumyeonghan neowa naui sai<br /> Gamanhi deullyeodaboda<br /> Illeongin mulgyeol sogeuro<br /> Deo ppajyeodeuneun geol<br /> <br /> Geunal hyanggiroun boratbichui mood<br /> Sel su eopsi banbokaedo gibun joeun kkum<br /> Gamhi nuga ireoke nal seollege hal jul<br /> Nan mollasseo nae mami iri dachaerounji<br /> <br /> Gin kkumeul kkuge hae i bangeun jageun heaven<br /> Chumeul chugon hae silkeot eojireoul mankeum<br /> Oh my, oh my God<br /> Han kan deo chaeugo isseo<br /> Jal bwa one, two, three, four, five, six, seven<br /> You make me feel like eleven<br /> <br /> Nae ape inneun neoreul<br /> Geu nune bichin nareul (geu nune bichin nareul)<br /> Ah yeah, ah yeah, ah yeah (gamanhi barabwa)<br /> Nae ape inneun neoreul<br /> Geu nune bichin nareul<br /> Gamanhi barabwa<br /> <br /> Don&#39;t say now<br /> Seodulleo ojin ma<br /> I sungani joa nan<br /> Micheo mollasseo nae mami iri dachaerounji (Woah-ooh-woah-ooh-woah)<br /> <br /> Gin kkumeul kkuge hae i bangeun jageun heaven<br /> Chumeul chugon hae silkeot eojireoul mankeum<br /> Oh my, oh my God<br /> Han kan deo chaeugo isseo<br /> Jal bwa one, two, three, four, five, six, seven<br /> You make me feel like eleven<br /> <br /> Nae ape inneun neoreul<br /> Geu nune bichin nareul<br /> Ah yeah, ah yeah, ah yeah<br /> Nae ape inneun neoreul<br /> Geu nune bichin nareul<br /> Saranghage dwaetgeodeun</p> " 
+	},
+	{
+      "id": 4,
+      "name_category": "Single",
+      "title": "My Satisfaction",
+      "image": "https://static.wikia.nocookie.net/ive/images/d/d7/After_Like_album_cover.png",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/02%20My%20Satisfaction.mp3",
+      "lyrics": "<p>Let me show ya nal bichuneun bit<br /> Gibun joa neomanui geu nunbit<br /> Gaseum ttwineun seollem gateun i neukkim<br /> <br /> (I know what you say)<br /> Eotteon nal joahaneunji<br /> (I can see)<br /> Jeonbu da boyeojulge<br /> (Just right now)<br /> Bichi naneun naege modu jumokae<br /> <br /> Shine on me nan nal saranghal ppunya<br /> Crush on me nal wonhage doel geoya<br /> Nugubodado nareul mideo nan nareul binnage hae<br /> Look at me now look at me now<br /> Ha ha ha ha ha<br /> <br /> Mae sungan seuseuro hwaksinhae<br /> Geomnaegibodan deo jasinhae<br /> Duryeoum ttawin molla<br /> Eonjena binnaneun neowa nal barae<br /> Come with me right now<br /> Ha ha ha ha<br /> <br /> Love myself nal ilchi anke<br /> Never end pyeongyeon ttawin sanggwan an hae<br /> Neoui du nun soge bichin naege manjokae<br /> <br /> (I know what you say)<br /> Eotteon nal joahaneunji<br /> (I can see)<br /> Jeonbu da boyeojulge<br /> (Just right now)<br /> Bichi naneun naege modu jumokae<br /> <br /> Shine on me nan nal saranghal ppunya<br /> Crush on me nal wonhage doel geoya<br /> Nugubodado nareul mideo nan nareul binnage hae<br /> Look at me now look at me now<br /> Ha ha ha ha ha<br /> <br /> Mae sungan seuseuro hwaksinhae<br /> Geomnaegibodan deo jasinhae<br /> Duryeoum ttawin molla<br /> Eonjena binnaneun neowa nal barae<br /> Come with me right now<br /> Ha ha ha ha<br /> <br /> Na-na-na-na-na-ma satisfaction<br /> Na-na-na-na-na-ma satisfaction<br /> Nan namanui wannabe<br /> Nan nal wihan masterpiece<br /> Na-na-na-na-na-ma satisfaction<br /> Na-na-na-na-na-ma satisfaction<br /> Nan namanui wannabe<br /> Nan nal wihan masterpiece<br /> <br /> Nae anui jasingami nal deo bichwo<br /> Eonjena seuseuro binna<br /> Nal uisimhaetdeon sesang ape boyeojul satisfaction<br /> <br /> Nae anui jasingami nal deo bichwo<br /> Eonjena seuseuro binna<br /> Nareul deo wanbyeokage binnage hal my satisfaction<br /> <br /> Nae anui jasingami nal deo bichwo<br /> Eonjena seuseuro binna<br /> Nareul deo wanbyeokage binnage hal my satisfaction</p> " 
+	},
+	{
+      "id": 5,
+      "name_category": "Single",
+      "title": "ROYAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/02%20ROYAL.mp3",
+      "lyrics": "<p>Royal<br /> Royal<br /> <br /> Du balkkeuteul tten sungan<br /> Naegero jipjungdoeneun vibe (woah, woah, yeah)<br /> Iksukan siseon I want it<br /> Sumgil pillyo eopjana<br /> Neukkyeojyeo in your eyes, eyes, eyes<br /> <br /> Heundeullim ttawineun eomneun nae meoributeo balkkeutkkaji<br /> Sesange boran deut modeun geol boyeo jugopa nan<br /> Nuguboda hwanhage binnaneun geureon naingeol<br /> <br /> &#39;Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Do it like a royal, royal geuge narago<br /> Geochimeopsi nan tto nege georeoga<br /> Nae georeumgeorimajeodo dangdanghan geuge nanikka<br /> <br /> Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Sonjit hanawa pyojeongkkaji<br /> Let you know, you know, you know<br /> You know, you know nal boyeojullae<br /> <br /> Nan georeumgeoributeo nunbitkkaji so royal<br /> Dadeul mureobwa how can I be like you, hold up<br /> Mangseoriji malgo boyeojwo be loyal to yourself<br /> Gajang neodaun geol boyeojul ttae that&#39;s royal<br /> <br /> Soljikan ge (I) jot (like) a (it)<br /> Amuryeom mwo eottae<br /> Sumeul pillyo eopseo siseone<br /> Jigeumbuteo let &#39;em know your name<br /> Nadaun ge (I) jot (love) a (it)<br /> Jigeum i sungan<br /> Ojik neoegeman jipjunghae<br /> Nege jungyohan geon eonjena be yourself<br /> <br /> Heundeullim ttawineun eomneun nae meoributeo balkkeutkkaji<br /> Sesange boran deut modeun geol boyeo jugopa nan<br /> Nuguboda hwanhage binnaneun geureon naingeol<br /> <br /> Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Do it like a royal, royal geuge narago<br /> Geochimeopsi nan tto nege georeoga<br /> Nae georeumgeorimajeodo dangdanghan geuge nanikka<br /> <br /> &#39;Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Sonjit hanawa pyojeongkkaji<br /> Let you know, you know, you know<br /> You know, you know, nal boyeojullae<br /> <br /> Eonjena gajang binnagil wonhae<br /> Jeo byeolcheoreom nunbusin na<br /> Eotteon sunganedo jasin itge naaga nan<br /> Ooh, no one can stop me now, hoo<br /> <br /> &#39;Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Do it like a royal, royal geuge narago<br /> Geochimeopsi nan tto nege georeoga<br /> Nae georeumgeorimajeodo dangdanghan geuge nanikka<br /> <br /> &#39;Cause you know I&#39;m a royal, royal<br /> Diamonds and gold<br /> Sonjit hanawa pyojeongkkaji<br /> Let you know, you know, you know<br /> You know, you know, nal boyeojullae<br /> <br /> (Huh, one, huh, two)<br /> Yeah, you&#39;re vibin&#39;<br /> Museun neukkiminji aratdamyeon divin&#39;<br /> (Huh, one, huh, two)<br /> Geurae neodapge<br /> Boyeojul ttae gajang binna like a diamond (Royal)<br /> Strike a pose (That&#39;s royal)<br /> You are the boss (That&#39;s royal)<br /> Let you know, you know, you know<br /> You know, you know, nal boyeojullae<br /> Royal</p> " 
+	},
+	{
+      "id": 6,
+      "name_category": "Single",
+      "title": "Take It",
+      "image": "https://cdn.kgasa.com/wp-content/uploads/2021/11/IVE-ELEVEN.jpg",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/02%20Take%20It.mp3",
+      "lyrics": "<p>Just take it, take it<br /> Yeah take it, take it (Oh yeah)<br /> Just take it, take it (Oh, oh)<br /> Yeah (Take it, take it)<br /> <br /> Daeche mwol mangseorini baby (So picky, picky)<br /> Dapdapan neodeucheoreom baby (Just take it, take it)<br /> Milgo danggil ppeonhan rutinkkaji baby<br /> Jaemieopseo nan pillyo eomneun geol (I&#39;m sassy, sassy)<br /> <br /> I-I-I-I-I&#39;m so curious<br /> Not, not, not, not too serious<br /> Gominhaji malgo ppalli (So picky, picky)<br /> Geumandwo seotun gyesan ttawin (Just take it, take it)<br /> <br /> Anin cheok sumgiji ma ttabunhanikka jiruhanikka<br /> Tukamyeon panic, panic, oh-oh-oh jinbuhanikka<br /> <br /> Nalkaroun nunbit, angkaljin momjit<br /> Geotbogien gwiyeowodo swipge dagaol sun eopseo<br /> Take it, take it, take it (Just take it, take it)<br /> You&#39;re stupid, stupid (jakku jjuppitjjuppit)<br /> I&#39;m toxic, toxic<br /> Moduga nal wonhan daedo swipge dagaol sun eopseo<br /> Picky, picky, picky (So picky, picky)<br /> <br /> Gapjagi ppittureojimyeon (Hey-ey-yah)<br /> Tto ppulla neoreul halkwil geol (Hey-ey-yah)<br /> Gamchwodun nal seon baltobe nollalji molla<br /> Jakkuman nega geoseullyeo (Hey-ey-yah)<br /> <br /> I-I-I-I-I&#39;m so curious<br /> Not, not, not, not too serious<br /> Gominhaji malgo ppalli (So picky picky)<br /> Geumandwo seotun gyesan ttawin no way<br /> <br /> Anin cheok sumgiji ma ttabunhanikka jiruhanikka<br /> Tukamyeon panic, panic, oh-oh-oh jinbuhanikka<br /> <br /> Nalkaroun nunbit, angkaljin momjit<br /> Geotbogien gwiyeowodo swipge dagaol sun eopseo<br /> Take it, take it, take it (Just take it, take it)<br /> You&#39;re stupid, stupid (jakku jjuppitjjuppit)<br /> I&#39;m toxic, toxic<br /> Moduga nal wonhan daedo swipge dagaol sun eopseo<br /> Picky, picky, picky (So picky, picky)<br /> <br /> Manyang yeppeun goyangi gatji<br /> Hollin deusi soneul ppeodeo neon<br /> Wanjeon jalmot bwasseo<br /> Bajjakbajjak aeman tal geol<br /> Go or stop? Ooh-la-la<br /> <br /> Deo isang maemdolji ma ttabunhanikka jiruhanikka<br /> Tukamyeon panic, panic, oh-oh-oh jinbuhanikka<br /> Eodiro twilji molla oh<br /> <br /> Nalkaroun nunbit (Oh-oh-oh-oh), angkaljin momjit<br /> Geotbogien gwiyeowodo swipge dagaol sun eopseo<br /> Take it, take it, take it (Oh yeah) (Just take it, take it)<br /> You&#39;re stupid, stupid (jakku jjuppitjjuppit)<br /> (Take it, take it, take it, take it)<br /> I&#39;m toxic, toxic<br /> (Toxic, toxic, toxic, toxic)<br /> Moduga nal wonhan daedo swipge dagaol sun eopseo<br /> Picky, picky, picky (So picky, picky)</p> " 
+	},
+	{
+      "id": 7,
+      "name_category": "Single",
+      "title": "ELEVEN - Japanese Version",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9b285ad368a3c2ed7482c0c",
+      "link_mp3": "https://kangmediadev.com/kangmedia/IVE/Single/01%20ELEVEN%20-Japanese%20version-.mp3",
+      "lyrics": "<p>Taikutsuna manazashi<br /> Muhyōjōdatta ano hi<br /> Terasuhikari back in force<br /> Hitomi no naka wa odd<br /> <br /> Mebae sakimidarete ku no blue<br /> Atashi ga dai teru kanjō wa true<br /> Sono namae tsubuyaku tabi ni kyun<br /> Ko kkara saki wa karafuruna anji<br /> <br /> Yumemi sasete kono heya wa heaven<br /> Me ga mawatte demo yamanai dansu<br /> Oh my, oh my god<br /> Kimi to someru iro<br /> Hora 1, 2, 3, 4, 5, 6, 7<br /> You make me feel like eleven<br /> <br /> Tōmeina futari no maai<br /> Nozoki konde mita<br /> Suikomareru harō<br /> Ochite yuku no<br /> <br /> Kaori tatsu mura saki no mood<br /> Kurikaeshi oboreru hakuchūmu<br /> Mata atashi no kokoro o ubau<br /> Ko kkara saki wa karafuruna anji<br /> <br /> Yumemi sasete kono heya wa heaven<br /> Me ga mawatte demo yamanai dansu<br /> Oh my, oh my god<br /> Kimi to someru iro<br /> Hora 1, 2, 3, 4, 5, 6, 7<br /> You make me feel like eleven<br /> <br /> Atashi o mi teru<br /> Kimi o mitsumeru<br /> Aya, aya, aya (kidzuitanara)<br /> Atashi o mi teru<br /> Kimi o mitsumeru<br /> Kidzuitanara<br /> <br /> Don&#39;t say now<br /> Aseranai wa<br /> Kore ga taman&#39;nai wa<br /> Ko kkara saki wa karafuruna anji<br /> <br /> Yumemi sasete kono heya wa heaven<br /> Me ga mawatte demo yamanai dansu<br /> Oh my, oh my god<br /> Kimi to someru iro<br /> Hora 1, 2, 3, 4, 5, 6, 7<br /> You make me feel like eleven<br /> <br /> Atashi o mi teru<br /> Kimi o mitsumeru<br /> Aya, aya, aya<br /> Atashi o mi teru<br /> Kimi o mitsumeru<br /> Ai shite goran</p> " 
+	}
+	
   ]
 }
